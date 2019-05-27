@@ -1,0 +1,8074 @@
+{
+  "entries": [
+    {
+      "blue": "110",
+      "green": "192",
+      "label": "GREEN",
+      "red": "23"
+    },
+    {
+      "blue": "174",
+      "green": "214",
+      "label": "GREEN",
+      "red": "94"
+    },
+    {
+      "blue": "237",
+      "green": "90",
+      "label": "VIOLET",
+      "red": "187"
+    },
+    {
+      "blue": "211",
+      "green": "147",
+      "label": "BLUE",
+      "red": "113"
+    },
+    {
+      "blue": "13",
+      "green": "131",
+      "label": "ORANGE",
+      "red": "145"
+    },
+    {
+      "blue": "107",
+      "green": "208",
+      "label": "GREEN",
+      "red": "22"
+    },
+    {
+      "blue": "71",
+      "green": "7",
+      "label": "RED",
+      "red": "102"
+    },
+    {
+      "blue": "84",
+      "green": "236",
+      "label": "GREEN",
+      "red": "164"
+    },
+    {
+      "blue": "220",
+      "green": "234",
+      "label": "GREEN",
+      "red": "220"
+    },
+    {
+      "blue": "137",
+      "green": "188",
+      "label": "GREEN",
+      "red": "17"
+    },
+    {
+      "blue": "97",
+      "green": "139",
+      "label": "GREEN",
+      "red": "5"
+    },
+    {
+      "blue": "98",
+      "green": "48",
+      "label": "RED",
+      "red": "192"
+    },
+    {
+      "blue": "79",
+      "green": "238",
+      "label": "GREEN",
+      "red": "85"
+    },
+    {
+      "blue": "24",
+      "green": "117",
+      "label": "ORANGE",
+      "red": "189"
+    },
+    {
+      "blue": "21",
+      "green": "243",
+      "label": "YELLOW",
+      "red": "224"
+    },
+    {
+      "blue": "245",
+      "green": "205",
+      "label": "BLUE",
+      "red": "11"
+    },
+    {
+      "blue": "9",
+      "green": "69",
+      "label": "RED",
+      "red": "123"
+    },
+    {
+      "blue": "21",
+      "green": "41",
+      "label": "RED",
+      "red": "103"
+    },
+    {
+      "blue": "84",
+      "green": "40",
+      "label": "RED",
+      "red": "200"
+    },
+    {
+      "blue": "206",
+      "green": "71",
+      "label": "INDIGO",
+      "red": "78"
+    },
+    {
+      "blue": "125",
+      "green": "52",
+      "label": "VIOLET",
+      "red": "162"
+    },
+    {
+      "blue": "76",
+      "green": "189",
+      "label": "GREEN",
+      "red": "134"
+    },
+    {
+      "blue": "193",
+      "green": "154",
+      "label": "BLUE",
+      "red": "165"
+    },
+    {
+      "blue": "34",
+      "green": "229",
+      "label": "GREEN",
+      "red": "25"
+    },
+    {
+      "blue": "215",
+      "green": "245",
+      "label": "BLUE",
+      "red": "109"
+    },
+    {
+      "blue": "204",
+      "green": "171",
+      "label": "BLUE",
+      "red": "100"
+    },
+    {
+      "blue": "241",
+      "green": "119",
+      "label": "INDIGO",
+      "red": "10"
+    },
+    {
+      "blue": "39",
+      "green": "233",
+      "label": "YELLOW",
+      "red": "235"
+    },
+    {
+      "blue": "142",
+      "green": "103",
+      "label": "INDIGO",
+      "red": "0"
+    },
+    {
+      "blue": "243",
+      "green": "134",
+      "label": "VIOLET",
+      "red": "134"
+    },
+    {
+      "blue": "228",
+      "green": "50",
+      "label": "VIOLET",
+      "red": "208"
+    },
+    {
+      "blue": "152",
+      "green": "249",
+      "label": "GREEN",
+      "red": "181"
+    },
+    {
+      "blue": "22",
+      "green": "39",
+      "label": "GREEN",
+      "red": "18"
+    },
+    {
+      "blue": "218",
+      "green": "249",
+      "label": "BLUE",
+      "red": "70"
+    },
+    {
+      "blue": "146",
+      "green": "128",
+      "label": "BLUE",
+      "red": "92"
+    },
+    {
+      "blue": "158",
+      "green": "196",
+      "label": "GREEN",
+      "red": "108"
+    },
+    {
+      "blue": "123",
+      "green": "104",
+      "label": "BLUE",
+      "red": "68"
+    },
+    {
+      "blue": "26",
+      "green": "163",
+      "label": "GREEN",
+      "red": "144"
+    },
+    {
+      "blue": "147",
+      "green": "1",
+      "label": "RED",
+      "red": "246"
+    },
+    {
+      "blue": "87",
+      "green": "198",
+      "label": "GREEN",
+      "red": "57"
+    },
+    {
+      "blue": "80",
+      "green": "124",
+      "label": "GREEN",
+      "red": "123"
+    },
+    {
+      "blue": "1",
+      "green": "122",
+      "label": "ORANGE",
+      "red": "211"
+    },
+    {
+      "blue": "164",
+      "green": "35",
+      "label": "RED",
+      "red": "205"
+    },
+    {
+      "blue": "73",
+      "green": "210",
+      "label": "GREEN",
+      "red": "168"
+    },
+    {
+      "blue": "192",
+      "green": "86",
+      "label": "VIOLET",
+      "red": "208"
+    },
+    {
+      "blue": "24",
+      "green": "28",
+      "label": "RED",
+      "red": "136"
+    },
+    {
+      "blue": "98",
+      "green": "99",
+      "label": "BLUE",
+      "red": "61"
+    },
+    {
+      "blue": "187",
+      "green": "0",
+      "label": "INDIGO",
+      "red": "75"
+    },
+    {
+      "blue": "49",
+      "green": "134",
+      "label": "ORANGE",
+      "red": "153"
+    },
+    {
+      "blue": "101",
+      "green": "195",
+      "label": "GREEN",
+      "red": "4"
+    },
+    {
+      "blue": "223",
+      "green": "141",
+      "label": "VIOLET",
+      "red": "192"
+    },
+    {
+      "blue": "250",
+      "green": "24",
+      "label": "VIOLET",
+      "red": "233"
+    },
+    {
+      "blue": "158",
+      "green": "179",
+      "label": "YELLOW",
+      "red": "191"
+    },
+    {
+      "blue": "113",
+      "green": "54",
+      "label": "VIOLET",
+      "red": "79"
+    },
+    {
+      "blue": "177",
+      "green": "158",
+      "label": "BLUE",
+      "red": "68"
+    },
+    {
+      "blue": "101",
+      "green": "154",
+      "label": "ORANGE",
+      "red": "247"
+    },
+    {
+      "blue": "196",
+      "green": "194",
+      "label": "BLUE",
+      "red": "72"
+    },
+    {
+      "blue": "219",
+      "green": "206",
+      "label": "BLUE",
+      "red": "98"
+    },
+    {
+      "blue": "132",
+      "green": "10",
+      "label": "INDIGO",
+      "red": "48"
+    },
+    {
+      "blue": "222",
+      "green": "213",
+      "label": "BLUE",
+      "red": "147"
+    },
+    {
+      "blue": "204",
+      "green": "155",
+      "label": "BLUE",
+      "red": "6"
+    },
+    {
+      "blue": "238",
+      "green": "212",
+      "label": "BLUE",
+      "red": "87"
+    },
+    {
+      "blue": "103",
+      "green": "21",
+      "label": "RED",
+      "red": "183"
+    },
+    {
+      "blue": "136",
+      "green": "37",
+      "label": "RED",
+      "red": "214"
+    },
+    {
+      "blue": "57",
+      "green": "180",
+      "label": "GREEN",
+      "red": "84"
+    },
+    {
+      "blue": "11",
+      "green": "96",
+      "label": "GREEN",
+      "red": "35"
+    },
+    {
+      "blue": "12",
+      "green": "116",
+      "label": "ORANGE",
+      "red": "241"
+    },
+    {
+      "blue": "227",
+      "green": "43",
+      "label": "VIOLET",
+      "red": "219"
+    },
+    {
+      "blue": "86",
+      "green": "201",
+      "label": "GREEN",
+      "red": "167"
+    },
+    {
+      "blue": "141",
+      "green": "255",
+      "label": "YELLOW",
+      "red": "246"
+    },
+    {
+      "blue": "155",
+      "green": "19",
+      "label": "RED",
+      "red": "241"
+    },
+    {
+      "blue": "84",
+      "green": "32",
+      "label": "RED",
+      "red": "194"
+    },
+    {
+      "blue": "192",
+      "green": "178",
+      "label": "RED",
+      "red": "200"
+    },
+    {
+      "blue": "102",
+      "green": "163",
+      "label": "GREEN",
+      "red": "97"
+    },
+    {
+      "blue": "34",
+      "green": "180",
+      "label": "GREEN",
+      "red": "105"
+    },
+    {
+      "blue": "99",
+      "green": "41",
+      "label": "VIOLET",
+      "red": "142"
+    },
+    {
+      "blue": "209",
+      "green": "95",
+      "label": "VIOLET",
+      "red": "172"
+    },
+    {
+      "blue": "67",
+      "green": "35",
+      "label": "RED",
+      "red": "139"
+    },
+    {
+      "blue": "231",
+      "green": "238",
+      "label": "BLUE",
+      "red": "141"
+    },
+    {
+      "blue": "215",
+      "green": "17",
+      "label": "VIOLET",
+      "red": "202"
+    },
+    {
+      "blue": "214",
+      "green": "5",
+      "label": "VIOLET",
+      "red": "158"
+    },
+    {
+      "blue": "228",
+      "green": "196",
+      "label": "BLUE",
+      "red": "114"
+    },
+    {
+      "blue": "117",
+      "green": "169",
+      "label": "GREEN",
+      "red": "49"
+    },
+    {
+      "blue": "117",
+      "green": "16",
+      "label": "VIOLET",
+      "red": "143"
+    },
+    {
+      "blue": "188",
+      "green": "150",
+      "label": "BLUE",
+      "red": "13"
+    },
+    {
+      "blue": "152",
+      "green": "254",
+      "label": "GREEN",
+      "red": "142"
+    },
+    {
+      "blue": "67",
+      "green": "75",
+      "label": "GREEN",
+      "red": "27"
+    },
+    {
+      "blue": "238",
+      "green": "113",
+      "label": "INDIGO",
+      "red": "99"
+    },
+    {
+      "blue": "244",
+      "green": "199",
+      "label": "BLUE",
+      "red": "30"
+    },
+    {
+      "blue": "174",
+      "green": "16",
+      "label": "VIOLET",
+      "red": "84"
+    },
+    {
+      "blue": "5",
+      "green": "113",
+      "label": "ORANGE",
+      "red": "115"
+    },
+    {
+      "blue": "89",
+      "green": "158",
+      "label": "GREEN",
+      "red": "55"
+    },
+    {
+      "blue": "27",
+      "green": "15",
+      "label": "RED",
+      "red": "240"
+    },
+    {
+      "blue": "232",
+      "green": "113",
+      "label": "VIOLET",
+      "red": "204"
+    },
+    {
+      "blue": "87",
+      "green": "86",
+      "label": "ORANGE",
+      "red": "181"
+    },
+    {
+      "blue": "56",
+      "green": "82",
+      "label": "RED",
+      "red": "209"
+    },
+    {
+      "blue": "88",
+      "green": "233",
+      "label": "GREEN",
+      "red": "191"
+    },
+    {
+      "blue": "255",
+      "green": "114",
+      "label": "INDIGO",
+      "red": "59"
+    },
+    {
+      "blue": "195",
+      "green": "115",
+      "label": "INDIGO",
+      "red": "5"
+    },
+    {
+      "blue": "215",
+      "green": "171",
+      "label": "BLUE",
+      "red": "154"
+    },
+    {
+      "blue": "62",
+      "green": "119",
+      "label": "ORANGE",
+      "red": "124"
+    },
+    {
+      "blue": "103",
+      "green": "202",
+      "label": "GREEN",
+      "red": "91"
+    },
+    {
+      "blue": "76",
+      "green": "135",
+      "label": "GREEN",
+      "red": "67"
+    },
+    {
+      "blue": "115",
+      "green": "179",
+      "label": "GREEN",
+      "red": "32"
+    },
+    {
+      "blue": "123",
+      "green": "44",
+      "label": "INDIGO",
+      "red": "36"
+    },
+    {
+      "blue": "104",
+      "green": "231",
+      "label": "YELLOW",
+      "red": "222"
+    },
+    {
+      "blue": "155",
+      "green": "77",
+      "label": "INDIGO",
+      "red": "28"
+    },
+    {
+      "blue": "175",
+      "green": "243",
+      "label": "GREEN",
+      "red": "82"
+    },
+    {
+      "blue": "114",
+      "green": "198",
+      "label": "GREEN",
+      "red": "29"
+    },
+    {
+      "blue": "79",
+      "green": "81",
+      "label": "GREEN",
+      "red": "43"
+    },
+    {
+      "blue": "25",
+      "green": "25",
+      "label": "RED",
+      "red": "229"
+    },
+    {
+      "blue": "2",
+      "green": "63",
+      "label": "ORANGE",
+      "red": "95"
+    },
+    {
+      "blue": "177",
+      "green": "7",
+      "label": "INDIGO",
+      "red": "41"
+    },
+    {
+      "blue": "217",
+      "green": "219",
+      "label": "BLUE",
+      "red": "18"
+    },
+    {
+      "blue": "97",
+      "green": "132",
+      "label": "GREEN",
+      "red": "73"
+    },
+    {
+      "blue": "157",
+      "green": "109",
+      "label": "BLUE",
+      "red": "50"
+    },
+    {
+      "blue": "228",
+      "green": "229",
+      "label": "BLUE",
+      "red": "189"
+    },
+    {
+      "blue": "231",
+      "green": "147",
+      "label": "RED",
+      "red": "222"
+    },
+    {
+      "blue": "146",
+      "green": "118",
+      "label": "BLUE",
+      "red": "97"
+    },
+    {
+      "blue": "57",
+      "green": "167",
+      "label": "GREEN",
+      "red": "126"
+    },
+    {
+      "blue": "122",
+      "green": "243",
+      "label": "GREEN",
+      "red": "1"
+    },
+    {
+      "blue": "111",
+      "green": "44",
+      "label": "RED",
+      "red": "250"
+    },
+    {
+      "blue": "127",
+      "green": "157",
+      "label": "ORANGE",
+      "red": "224"
+    },
+    {
+      "blue": "123",
+      "green": "226",
+      "label": "GREEN",
+      "red": "5"
+    },
+    {
+      "blue": "107",
+      "green": "80",
+      "label": "INDIGO",
+      "red": "40"
+    },
+    {
+      "blue": "171",
+      "green": "127",
+      "label": "VIOLET",
+      "red": "125"
+    },
+    {
+      "blue": "13",
+      "green": "131",
+      "label": "GREEN",
+      "red": "111"
+    },
+    {
+      "blue": "181",
+      "green": "183",
+      "label": "BLUE",
+      "red": "24"
+    },
+    {
+      "blue": "75",
+      "green": "44",
+      "label": "VIOLET",
+      "red": "89"
+    },
+    {
+      "blue": "68",
+      "green": "11",
+      "label": "VIOLET",
+      "red": "16"
+    },
+    {
+      "blue": "61",
+      "green": "23",
+      "label": "INDIGO",
+      "red": "16"
+    },
+    {
+      "blue": "75",
+      "green": "159",
+      "label": "GREEN",
+      "red": "80"
+    },
+    {
+      "blue": "5",
+      "green": "203",
+      "label": "GREEN",
+      "red": "158"
+    },
+    {
+      "blue": "228",
+      "green": "49",
+      "label": "VIOLET",
+      "red": "170"
+    },
+    {
+      "blue": "20",
+      "green": "95",
+      "label": "GREEN",
+      "red": "2"
+    },
+    {
+      "blue": "19",
+      "green": "232",
+      "label": "GREEN",
+      "red": "95"
+    },
+    {
+      "blue": "155",
+      "green": "18",
+      "label": "VIOLET",
+      "red": "92"
+    },
+    {
+      "blue": "97",
+      "green": "21",
+      "label": "RED",
+      "red": "248"
+    },
+    {
+      "blue": "197",
+      "green": "138",
+      "label": "BLUE",
+      "red": "74"
+    },
+    {
+      "blue": "5",
+      "green": "146",
+      "label": "ORANGE",
+      "red": "197"
+    },
+    {
+      "blue": "81",
+      "green": "221",
+      "label": "GREEN",
+      "red": "65"
+    },
+    {
+      "blue": "114",
+      "green": "248",
+      "label": "GREEN",
+      "red": "173"
+    },
+    {
+      "blue": "12",
+      "green": "125",
+      "label": "GREEN",
+      "red": "1"
+    },
+    {
+      "blue": "31",
+      "green": "105",
+      "label": "ORANGE",
+      "red": "250"
+    },
+    {
+      "blue": "18",
+      "green": "230",
+      "label": "YELLOW",
+      "red": "213"
+    },
+    {
+      "blue": "73",
+      "green": "215",
+      "label": "GREEN",
+      "red": "181"
+    },
+    {
+      "blue": "199",
+      "green": "106",
+      "label": "INDIGO",
+      "red": "4"
+    },
+    {
+      "blue": "40",
+      "green": "165",
+      "label": "ORANGE",
+      "red": "218"
+    },
+    {
+      "blue": "251",
+      "green": "221",
+      "label": "VIOLET",
+      "red": "246"
+    },
+    {
+      "blue": "62",
+      "green": "205",
+      "label": "GREEN",
+      "red": "49"
+    },
+    {
+      "blue": "174",
+      "green": "235",
+      "label": "YELLOW",
+      "red": "250"
+    },
+    {
+      "blue": "227",
+      "green": "136",
+      "label": "BLUE",
+      "red": "58"
+    },
+    {
+      "blue": "93",
+      "green": "112",
+      "label": "RED",
+      "red": "223"
+    },
+    {
+      "blue": "67",
+      "green": "252",
+      "label": "YELLOW",
+      "red": "238"
+    },
+    {
+      "blue": "94",
+      "green": "23",
+      "label": "VIOLET",
+      "red": "79"
+    },
+    {
+      "blue": "179",
+      "green": "163",
+      "label": "VIOLET",
+      "red": "171"
+    },
+    {
+      "blue": "64",
+      "green": "86",
+      "label": "RED",
+      "red": "203"
+    },
+    {
+      "blue": "26",
+      "green": "185",
+      "label": "ORANGE",
+      "red": "227"
+    },
+    {
+      "blue": "232",
+      "green": "143",
+      "label": "VIOLET",
+      "red": "164"
+    },
+    {
+      "blue": "199",
+      "green": "170",
+      "label": "BLUE",
+      "red": "50"
+    },
+    {
+      "blue": "57",
+      "green": "154",
+      "label": "ORANGE",
+      "red": "206"
+    },
+    {
+      "blue": "187",
+      "green": "102",
+      "label": "INDIGO",
+      "red": "19"
+    },
+    {
+      "blue": "234",
+      "green": "66",
+      "label": "VIOLET",
+      "red": "190"
+    },
+    {
+      "blue": "170",
+      "green": "14",
+      "label": "RED",
+      "red": "227"
+    },
+    {
+      "blue": "150",
+      "green": "94",
+      "label": "VIOLET",
+      "red": "115"
+    },
+    {
+      "blue": "147",
+      "green": "111",
+      "label": "INDIGO",
+      "red": "40"
+    },
+    {
+      "blue": "70",
+      "green": "9",
+      "label": "RED",
+      "red": "226"
+    },
+    {
+      "blue": "247",
+      "green": "255",
+      "label": "YELLOW",
+      "red": "240"
+    },
+    {
+      "blue": "174",
+      "green": "239",
+      "label": "GREEN",
+      "red": "71"
+    },
+    {
+      "blue": "162",
+      "green": "200",
+      "label": "GREEN",
+      "red": "60"
+    },
+    {
+      "blue": "127",
+      "green": "147",
+      "label": "GREEN",
+      "red": "116"
+    },
+    {
+      "blue": "213",
+      "green": "89",
+      "label": "INDIGO",
+      "red": "76"
+    },
+    {
+      "blue": "239",
+      "green": "36",
+      "label": "INDIGO",
+      "red": "27"
+    },
+    {
+      "blue": "130",
+      "green": "91",
+      "label": "INDIGO",
+      "red": "72"
+    },
+    {
+      "blue": "77",
+      "green": "27",
+      "label": "VIOLET",
+      "red": "114"
+    },
+    {
+      "blue": "244",
+      "green": "159",
+      "label": "BLUE",
+      "red": "44"
+    },
+    {
+      "blue": "230",
+      "green": "202",
+      "label": "BLUE",
+      "red": "166"
+    },
+    {
+      "blue": "203",
+      "green": "164",
+      "label": "BLUE",
+      "red": "147"
+    },
+    {
+      "blue": "91",
+      "green": "206",
+      "label": "GREEN",
+      "red": "97"
+    },
+    {
+      "blue": "46",
+      "green": "54",
+      "label": "GREEN",
+      "red": "34"
+    },
+    {
+      "blue": "6",
+      "green": "217",
+      "label": "GREEN",
+      "red": "105"
+    },
+    {
+      "blue": "211",
+      "green": "11",
+      "label": "INDIGO",
+      "red": "48"
+    },
+    {
+      "blue": "78",
+      "green": "81",
+      "label": "ORANGE",
+      "red": "110"
+    },
+    {
+      "blue": "79",
+      "green": "132",
+      "label": "ORANGE",
+      "red": "161"
+    },
+    {
+      "blue": "91",
+      "green": "241",
+      "label": "GREEN",
+      "red": "58"
+    },
+    {
+      "blue": "205",
+      "green": "147",
+      "label": "BLUE",
+      "red": "45"
+    },
+    {
+      "blue": "92",
+      "green": "187",
+      "label": "GREEN",
+      "red": "152"
+    },
+    {
+      "blue": "159",
+      "green": "25",
+      "label": "VIOLET",
+      "red": "216"
+    },
+    {
+      "blue": "158",
+      "green": "210",
+      "label": "ORANGE",
+      "red": "244"
+    },
+    {
+      "blue": "191",
+      "green": "104",
+      "label": "VIOLET",
+      "red": "189"
+    },
+    {
+      "blue": "168",
+      "green": "76",
+      "label": "VIOLET",
+      "red": "122"
+    },
+    {
+      "blue": "97",
+      "green": "200",
+      "label": "GREEN",
+      "red": "52"
+    },
+    {
+      "blue": "55",
+      "green": "25",
+      "label": "INDIGO",
+      "red": "9"
+    },
+    {
+      "blue": "39",
+      "green": "193",
+      "label": "YELLOW",
+      "red": "233"
+    },
+    {
+      "blue": "117",
+      "green": "162",
+      "label": "GREEN",
+      "red": "141"
+    },
+    {
+      "blue": "229",
+      "green": "88",
+      "label": "VIOLET",
+      "red": "208"
+    },
+    {
+      "blue": "86",
+      "green": "112",
+      "label": "ORANGE",
+      "red": "183"
+    },
+    {
+      "blue": "199",
+      "green": "64",
+      "label": "INDIGO",
+      "red": "82"
+    },
+    {
+      "blue": "156",
+      "green": "116",
+      "label": "RED",
+      "red": "241"
+    },
+    {
+      "blue": "68",
+      "green": "47",
+      "label": "RED",
+      "red": "251"
+    },
+    {
+      "blue": "102",
+      "green": "185",
+      "label": "ORANGE",
+      "red": "255"
+    },
+    {
+      "blue": "24",
+      "green": "79",
+      "label": "ORANGE",
+      "red": "149"
+    },
+    {
+      "blue": "121",
+      "green": "213",
+      "label": "GREEN",
+      "red": "76"
+    },
+    {
+      "blue": "28",
+      "green": "97",
+      "label": "ORANGE",
+      "red": "122"
+    },
+    {
+      "blue": "83",
+      "green": "35",
+      "label": "VIOLET",
+      "red": "94"
+    },
+    {
+      "blue": "79",
+      "green": "24",
+      "label": "VIOLET",
+      "red": "76"
+    },
+    {
+      "blue": "152",
+      "green": "102",
+      "label": "INDIGO",
+      "red": "78"
+    },
+    {
+      "blue": "158",
+      "green": "107",
+      "label": "VIOLET",
+      "red": "181"
+    },
+    {
+      "blue": "179",
+      "green": "103",
+      "label": "BLUE",
+      "red": "15"
+    },
+    {
+      "blue": "197",
+      "green": "237",
+      "label": "GREEN",
+      "red": "177"
+    },
+    {
+      "blue": "218",
+      "green": "36",
+      "label": "VIOLET",
+      "red": "240"
+    },
+    {
+      "blue": "164",
+      "green": "139",
+      "label": "RED",
+      "red": "194"
+    },
+    {
+      "blue": "135",
+      "green": "162",
+      "label": "GREEN",
+      "red": "100"
+    },
+    {
+      "blue": "12",
+      "green": "80",
+      "label": "ORANGE",
+      "red": "124"
+    },
+    {
+      "blue": "15",
+      "green": "1",
+      "label": "RED",
+      "red": "112"
+    },
+    {
+      "blue": "118",
+      "green": "47",
+      "label": "VIOLET",
+      "red": "98"
+    },
+    {
+      "blue": "65",
+      "green": "215",
+      "label": "GREEN",
+      "red": "8"
+    },
+    {
+      "blue": "57",
+      "green": "47",
+      "label": "NONE",
+      "red": "36"
+    },
+    {
+      "blue": "59",
+      "green": "96",
+      "label": "GREEN",
+      "red": "40"
+    },
+    {
+      "blue": "22",
+      "green": "213",
+      "label": "GREEN",
+      "red": "28"
+    },
+    {
+      "blue": "86",
+      "green": "77",
+      "label": "INDIGO",
+      "red": "19"
+    },
+    {
+      "blue": "93",
+      "green": "11",
+      "label": "VIOLET",
+      "red": "49"
+    },
+    {
+      "blue": "67",
+      "green": "27",
+      "label": "RED",
+      "red": "192"
+    },
+    {
+      "blue": "75",
+      "green": "124",
+      "label": "ORANGE",
+      "red": "166"
+    },
+    {
+      "blue": "57",
+      "green": "164",
+      "label": "GREEN",
+      "red": "17"
+    },
+    {
+      "blue": "152",
+      "green": "77",
+      "label": "INDIGO",
+      "red": "5"
+    },
+    {
+      "blue": "133",
+      "green": "81",
+      "label": "RED",
+      "red": "248"
+    },
+    {
+      "blue": "226",
+      "green": "115",
+      "label": "VIOLET",
+      "red": "183"
+    },
+    {
+      "blue": "201",
+      "green": "236",
+      "label": "GREEN",
+      "red": "89"
+    },
+    {
+      "blue": "159",
+      "green": "210",
+      "label": "GREEN",
+      "red": "56"
+    },
+    {
+      "blue": "135",
+      "green": "140",
+      "label": "GREEN",
+      "red": "17"
+    },
+    {
+      "blue": "192",
+      "green": "64",
+      "label": "INDIGO",
+      "red": "19"
+    },
+    {
+      "blue": "70",
+      "green": "241",
+      "label": "GREEN",
+      "red": "151"
+    },
+    {
+      "blue": "169",
+      "green": "136",
+      "label": "BLUE",
+      "red": "128"
+    },
+    {
+      "blue": "162",
+      "green": "188",
+      "label": "GREEN",
+      "red": "26"
+    },
+    {
+      "blue": "58",
+      "green": "221",
+      "label": "GREEN",
+      "red": "154"
+    },
+    {
+      "blue": "23",
+      "green": "134",
+      "label": "GREEN",
+      "red": "22"
+    },
+    {
+      "blue": "12",
+      "green": "74",
+      "label": "ORANGE",
+      "red": "96"
+    },
+    {
+      "blue": "94",
+      "green": "67",
+      "label": "RED",
+      "red": "254"
+    },
+    {
+      "blue": "126",
+      "green": "183",
+      "label": "YELLOW",
+      "red": "214"
+    },
+    {
+      "blue": "152",
+      "green": "221",
+      "label": "GREEN",
+      "red": "94"
+    },
+    {
+      "blue": "201",
+      "green": "93",
+      "label": "INDIGO",
+      "red": "61"
+    },
+    {
+      "blue": "103",
+      "green": "87",
+      "label": "BLUE",
+      "red": "34"
+    },
+    {
+      "blue": "5",
+      "green": "20",
+      "label": "RED",
+      "red": "155"
+    },
+    {
+      "blue": "239",
+      "green": "1",
+      "label": "VIOLET",
+      "red": "180"
+    },
+    {
+      "blue": "37",
+      "green": "129",
+      "label": "ORANGE",
+      "red": "223"
+    },
+    {
+      "blue": "150",
+      "green": "108",
+      "label": "VIOLET",
+      "red": "119"
+    },
+    {
+      "blue": "47",
+      "green": "108",
+      "label": "GREEN",
+      "red": "95"
+    },
+    {
+      "blue": "63",
+      "green": "82",
+      "label": "RED",
+      "red": "174"
+    },
+    {
+      "blue": "19",
+      "green": "212",
+      "label": "GREEN",
+      "red": "1"
+    },
+    {
+      "blue": "145",
+      "green": "15",
+      "label": "VIOLET",
+      "red": "111"
+    },
+    {
+      "blue": "179",
+      "green": "239",
+      "label": "GREEN",
+      "red": "49"
+    },
+    {
+      "blue": "80",
+      "green": "237",
+      "label": "GREEN",
+      "red": "76"
+    },
+    {
+      "blue": "201",
+      "green": "52",
+      "label": "INDIGO",
+      "red": "45"
+    },
+    {
+      "blue": "21",
+      "green": "107",
+      "label": "ORANGE",
+      "red": "140"
+    },
+    {
+      "blue": "4",
+      "green": "252",
+      "label": "GREEN",
+      "red": "90"
+    },
+    {
+      "blue": "75",
+      "green": "249",
+      "label": "GREEN",
+      "red": "42"
+    },
+    {
+      "blue": "28",
+      "green": "152",
+      "label": "GREEN",
+      "red": "132"
+    },
+    {
+      "blue": "69",
+      "green": "108",
+      "label": "GREEN",
+      "red": "119"
+    },
+    {
+      "blue": "19",
+      "green": "246",
+      "label": "YELLOW",
+      "red": "238"
+    },
+    {
+      "blue": "71",
+      "green": "5",
+      "label": "RED",
+      "red": "118"
+    },
+    {
+      "blue": "143",
+      "green": "236",
+      "label": "GREEN",
+      "red": "206"
+    },
+    {
+      "blue": "64",
+      "green": "166",
+      "label": "GREEN",
+      "red": "145"
+    },
+    {
+      "blue": "130",
+      "green": "173",
+      "label": "GREEN",
+      "red": "79"
+    },
+    {
+      "blue": "215",
+      "green": "81",
+      "label": "VIOLET",
+      "red": "237"
+    },
+    {
+      "blue": "99",
+      "green": "44",
+      "label": "INDIGO",
+      "red": "11"
+    },
+    {
+      "blue": "141",
+      "green": "194",
+      "label": "GREEN",
+      "red": "84"
+    },
+    {
+      "blue": "188",
+      "green": "147",
+      "label": "BLUE",
+      "red": "136"
+    },
+    {
+      "blue": "144",
+      "green": "139",
+      "label": "RED",
+      "red": "252"
+    },
+    {
+      "blue": "226",
+      "green": "169",
+      "label": "VIOLET",
+      "red": "214"
+    },
+    {
+      "blue": "178",
+      "green": "229",
+      "label": "GREEN",
+      "red": "117"
+    },
+    {
+      "blue": "47",
+      "green": "226",
+      "label": "GREEN",
+      "red": "116"
+    },
+    {
+      "blue": "182",
+      "green": "52",
+      "label": "VIOLET",
+      "red": "123"
+    },
+    {
+      "blue": "85",
+      "green": "242",
+      "label": "GREEN",
+      "red": "183"
+    },
+    {
+      "blue": "214",
+      "green": "189",
+      "label": "BLUE",
+      "red": "154"
+    },
+    {
+      "blue": "247",
+      "green": "29",
+      "label": "VIOLET",
+      "red": "169"
+    },
+    {
+      "blue": "27",
+      "green": "48",
+      "label": "RED",
+      "red": "208"
+    },
+    {
+      "blue": "200",
+      "green": "94",
+      "label": "INDIGO",
+      "red": "100"
+    },
+    {
+      "blue": "1",
+      "green": "149",
+      "label": "GREEN",
+      "red": "113"
+    },
+    {
+      "blue": "150",
+      "green": "109",
+      "label": "VIOLET",
+      "red": "134"
+    },
+    {
+      "blue": "250",
+      "green": "175",
+      "label": "BLUE",
+      "red": "26"
+    },
+    {
+      "blue": "133",
+      "green": "155",
+      "label": "RED",
+      "red": "197"
+    },
+    {
+      "blue": "44",
+      "green": "92",
+      "label": "GREEN",
+      "red": "13"
+    },
+    {
+      "blue": "107",
+      "green": "113",
+      "label": "RED",
+      "red": "131"
+    },
+    {
+      "blue": "212",
+      "green": "224",
+      "label": "BLUE",
+      "red": "151"
+    },
+    {
+      "blue": "36",
+      "green": "141",
+      "label": "GREEN",
+      "red": "17"
+    },
+    {
+      "blue": "52",
+      "green": "90",
+      "label": "ORANGE",
+      "red": "159"
+    },
+    {
+      "blue": "59",
+      "green": "164",
+      "label": "YELLOW",
+      "red": "182"
+    },
+    {
+      "blue": "122",
+      "green": "239",
+      "label": "YELLOW",
+      "red": "205"
+    },
+    {
+      "blue": "93",
+      "green": "182",
+      "label": "YELLOW",
+      "red": "86"
+    },
+    {
+      "blue": "89",
+      "green": "169",
+      "label": "GREEN",
+      "red": "180"
+    },
+    {
+      "blue": "250",
+      "green": "204",
+      "label": "BLUE",
+      "red": "49"
+    },
+    {
+      "blue": "109",
+      "green": "167",
+      "label": "GREEN",
+      "red": "75"
+    },
+    {
+      "blue": "197",
+      "green": "22",
+      "label": "VIOLET",
+      "red": "212"
+    },
+    {
+      "blue": "17",
+      "green": "40",
+      "label": "RED",
+      "red": "248"
+    },
+    {
+      "blue": "164",
+      "green": "1",
+      "label": "RED",
+      "red": "222"
+    },
+    {
+      "blue": "22",
+      "green": "132",
+      "label": "ORANGE",
+      "red": "238"
+    },
+    {
+      "blue": "12",
+      "green": "77",
+      "label": "ORANGE",
+      "red": "176"
+    },
+    {
+      "blue": "219",
+      "green": "218",
+      "label": "BLUE",
+      "red": "201"
+    },
+    {
+      "blue": "120",
+      "green": "3",
+      "label": "VIOLET",
+      "red": "156"
+    },
+    {
+      "blue": "63",
+      "green": "233",
+      "label": "GREEN",
+      "red": "126"
+    },
+    {
+      "blue": "247",
+      "green": "199",
+      "label": "BLUE",
+      "red": "175"
+    },
+    {
+      "blue": "45",
+      "green": "234",
+      "label": "YELLOW",
+      "red": "237"
+    },
+    {
+      "blue": "100",
+      "green": "117",
+      "label": "ORANGE",
+      "red": "173"
+    },
+    {
+      "blue": "57",
+      "green": "72",
+      "label": "GREEN",
+      "red": "39"
+    },
+    {
+      "blue": "103",
+      "green": "163",
+      "label": "GREEN",
+      "red": "96"
+    },
+    {
+      "blue": "27",
+      "green": "241",
+      "label": "GREEN",
+      "red": "73"
+    },
+    {
+      "blue": "10",
+      "green": "135",
+      "label": "GREEN",
+      "red": "110"
+    },
+    {
+      "blue": "74",
+      "green": "140",
+      "label": "GREEN",
+      "red": "71"
+    },
+    {
+      "blue": "251",
+      "green": "26",
+      "label": "INDIGO",
+      "red": "47"
+    },
+    {
+      "blue": "158",
+      "green": "211",
+      "label": "GREEN",
+      "red": "128"
+    },
+    {
+      "blue": "16",
+      "green": "114",
+      "label": "ORANGE",
+      "red": "198"
+    },
+    {
+      "blue": "238",
+      "green": "136",
+      "label": "RED",
+      "red": "254"
+    },
+    {
+      "blue": "145",
+      "green": "125",
+      "label": "BLUE",
+      "red": "80"
+    },
+    {
+      "blue": "223",
+      "green": "245",
+      "label": "BLUE",
+      "red": "182"
+    },
+    {
+      "blue": "210",
+      "green": "149",
+      "label": "VIOLET",
+      "red": "190"
+    },
+    {
+      "blue": "144",
+      "green": "96",
+      "label": "VIOLET",
+      "red": "175"
+    },
+    {
+      "blue": "176",
+      "green": "146",
+      "label": "RED",
+      "red": "254"
+    },
+    {
+      "blue": "46",
+      "green": "58",
+      "label": "RED",
+      "red": "195"
+    },
+    {
+      "blue": "19",
+      "green": "101",
+      "label": "ORANGE",
+      "red": "152"
+    },
+    {
+      "blue": "67",
+      "green": "201",
+      "label": "YELLOW",
+      "red": "206"
+    },
+    {
+      "blue": "38",
+      "green": "223",
+      "label": "GREEN",
+      "red": "127"
+    },
+    {
+      "blue": "231",
+      "green": "128",
+      "label": "VIOLET",
+      "red": "197"
+    },
+    {
+      "blue": "104",
+      "green": "189",
+      "label": "GREEN",
+      "red": "88"
+    },
+    {
+      "blue": "142",
+      "green": "132",
+      "label": "BLUE",
+      "red": "15"
+    },
+    {
+      "blue": "44",
+      "green": "203",
+      "label": "GREEN",
+      "red": "131"
+    },
+    {
+      "blue": "242",
+      "green": "119",
+      "label": "INDIGO",
+      "red": "73"
+    },
+    {
+      "blue": "177",
+      "green": "234",
+      "label": "GREEN",
+      "red": "89"
+    },
+    {
+      "blue": "74",
+      "green": "50",
+      "label": "RED",
+      "red": "171"
+    },
+    {
+      "blue": "96",
+      "green": "108",
+      "label": "GREEN",
+      "red": "37"
+    },
+    {
+      "blue": "45",
+      "green": "67",
+      "label": "RED",
+      "red": "238"
+    },
+    {
+      "blue": "221",
+      "green": "245",
+      "label": "BLUE",
+      "red": "72"
+    },
+    {
+      "blue": "200",
+      "green": "243",
+      "label": "GREEN",
+      "red": "191"
+    },
+    {
+      "blue": "197",
+      "green": "104",
+      "label": "INDIGO",
+      "red": "60"
+    },
+    {
+      "blue": "136",
+      "green": "61",
+      "label": "RED",
+      "red": "206"
+    },
+    {
+      "blue": "6",
+      "green": "130",
+      "label": "ORANGE",
+      "red": "205"
+    },
+    {
+      "blue": "207",
+      "green": "248",
+      "label": "YELLOW",
+      "red": "247"
+    },
+    {
+      "blue": "181",
+      "green": "32",
+      "label": "VIOLET",
+      "red": "190"
+    },
+    {
+      "blue": "98",
+      "green": "38",
+      "label": "RED",
+      "red": "247"
+    },
+    {
+      "blue": "123",
+      "green": "168",
+      "label": "GREEN",
+      "red": "104"
+    },
+    {
+      "blue": "107",
+      "green": "128",
+      "label": "GREEN",
+      "red": "127"
+    },
+    {
+      "blue": "209",
+      "green": "57",
+      "label": "VIOLET",
+      "red": "164"
+    },
+    {
+      "blue": "80",
+      "green": "170",
+      "label": "GREEN",
+      "red": "82"
+    },
+    {
+      "blue": "130",
+      "green": "224",
+      "label": "GREEN",
+      "red": "43"
+    },
+    {
+      "blue": "109",
+      "green": "169",
+      "label": "ORANGE",
+      "red": "233"
+    },
+    {
+      "blue": "148",
+      "green": "103",
+      "label": "BLUE",
+      "red": "60"
+    },
+    {
+      "blue": "102",
+      "green": "19",
+      "label": "VIOLET",
+      "red": "57"
+    },
+    {
+      "blue": "153",
+      "green": "18",
+      "label": "VIOLET",
+      "red": "69"
+    },
+    {
+      "blue": "233",
+      "green": "9",
+      "label": "VIOLET",
+      "red": "120"
+    },
+    {
+      "blue": "117",
+      "green": "232",
+      "label": "GREEN",
+      "red": "15"
+    },
+    {
+      "blue": "178",
+      "green": "126",
+      "label": "RED",
+      "red": "204"
+    },
+    {
+      "blue": "141",
+      "green": "100",
+      "label": "RED",
+      "red": "119"
+    },
+    {
+      "blue": "211",
+      "green": "35",
+      "label": "VIOLET",
+      "red": "161"
+    },
+    {
+      "blue": "78",
+      "green": "234",
+      "label": "YELLOW",
+      "red": "225"
+    },
+    {
+      "blue": "37",
+      "green": "164",
+      "label": "GREEN",
+      "red": "0"
+    },
+    {
+      "blue": "138",
+      "green": "53",
+      "label": "INDIGO",
+      "red": "76"
+    },
+    {
+      "blue": "241",
+      "green": "249",
+      "label": "BLUE",
+      "red": "74"
+    },
+    {
+      "blue": "104",
+      "green": "77",
+      "label": "RED",
+      "red": "165"
+    },
+    {
+      "blue": "69",
+      "green": "122",
+      "label": "RED",
+      "red": "238"
+    },
+    {
+      "blue": "174",
+      "green": "242",
+      "label": "GREEN",
+      "red": "192"
+    },
+    {
+      "blue": "50",
+      "green": "221",
+      "label": "GREEN",
+      "red": "51"
+    },
+    {
+      "blue": "85",
+      "green": "20",
+      "label": "RED",
+      "red": "122"
+    },
+    {
+      "blue": "222",
+      "green": "177",
+      "label": "RED",
+      "red": "247"
+    },
+    {
+      "blue": "248",
+      "green": "32",
+      "label": "BLUE",
+      "red": "36"
+    },
+    {
+      "blue": "171",
+      "green": "144",
+      "label": "BLUE",
+      "red": "74"
+    },
+    {
+      "blue": "87",
+      "green": "93",
+      "label": "GREEN",
+      "red": "15"
+    },
+    {
+      "blue": "241",
+      "green": "84",
+      "label": "INDIGO",
+      "red": "85"
+    },
+    {
+      "blue": "217",
+      "green": "215",
+      "label": "BLUE",
+      "red": "103"
+    },
+    {
+      "blue": "203",
+      "green": "251",
+      "label": "GREEN",
+      "red": "49"
+    },
+    {
+      "blue": "12",
+      "green": "187",
+      "label": "GREEN",
+      "red": "108"
+    },
+    {
+      "blue": "185",
+      "green": "167",
+      "label": "RED",
+      "red": "193"
+    },
+    {
+      "blue": "123",
+      "green": "212",
+      "label": "GREEN",
+      "red": "117"
+    },
+    {
+      "blue": "43",
+      "green": "235",
+      "label": "YELLOW",
+      "red": "240"
+    },
+    {
+      "blue": "4",
+      "green": "103",
+      "label": "ORANGE",
+      "red": "193"
+    },
+    {
+      "blue": "55",
+      "green": "227",
+      "label": "GREEN",
+      "red": "198"
+    },
+    {
+      "blue": "108",
+      "green": "121",
+      "label": "GREEN",
+      "red": "5"
+    },
+    {
+      "blue": "232",
+      "green": "103",
+      "label": "VIOLET",
+      "red": "140"
+    },
+    {
+      "blue": "165",
+      "green": "200",
+      "label": "GREEN",
+      "red": "150"
+    },
+    {
+      "blue": "85",
+      "green": "110",
+      "label": "GREEN",
+      "red": "21"
+    },
+    {
+      "blue": "82",
+      "green": "247",
+      "label": "YELLOW",
+      "red": "251"
+    },
+    {
+      "blue": "119",
+      "green": "107",
+      "label": "BLUE",
+      "red": "28"
+    },
+    {
+      "blue": "133",
+      "green": "102",
+      "label": "BLUE",
+      "red": "62"
+    },
+    {
+      "blue": "130",
+      "green": "247",
+      "label": "GREEN",
+      "red": "76"
+    },
+    {
+      "blue": "123",
+      "green": "56",
+      "label": "VIOLET",
+      "red": "143"
+    },
+    {
+      "blue": "104",
+      "green": "178",
+      "label": "GREEN",
+      "red": "24"
+    },
+    {
+      "blue": "122",
+      "green": "175",
+      "label": "GREEN",
+      "red": "12"
+    },
+    {
+      "blue": "159",
+      "green": "119",
+      "label": "RED",
+      "red": "197"
+    },
+    {
+      "blue": "131",
+      "green": "220",
+      "label": "GREEN",
+      "red": "84"
+    },
+    {
+      "blue": "191",
+      "green": "203",
+      "label": "BLUE",
+      "red": "150"
+    },
+    {
+      "blue": "214",
+      "green": "43",
+      "label": "VIOLET",
+      "red": "207"
+    },
+    {
+      "blue": "162",
+      "green": "235",
+      "label": "GREEN",
+      "red": "21"
+    },
+    {
+      "blue": "222",
+      "green": "214",
+      "label": "BLUE",
+      "red": "70"
+    },
+    {
+      "blue": "215",
+      "green": "17",
+      "label": "INDIGO",
+      "red": "106"
+    },
+    {
+      "blue": "188",
+      "green": "22",
+      "label": "VIOLET",
+      "red": "167"
+    },
+    {
+      "blue": "228",
+      "green": "198",
+      "label": "RED",
+      "red": "221"
+    },
+    {
+      "blue": "224",
+      "green": "177",
+      "label": "BLUE",
+      "red": "83"
+    },
+    {
+      "blue": "6",
+      "green": "231",
+      "label": "GREEN",
+      "red": "97"
+    },
+    {
+      "blue": "4",
+      "green": "91",
+      "label": "GREEN",
+      "red": "39"
+    },
+    {
+      "blue": "141",
+      "green": "19",
+      "label": "VIOLET",
+      "red": "130"
+    },
+    {
+      "blue": "84",
+      "green": "112",
+      "label": "RED",
+      "red": "254"
+    },
+    {
+      "blue": "228",
+      "green": "108",
+      "label": "BLUE",
+      "red": "83"
+    },
+    {
+      "blue": "236",
+      "green": "63",
+      "label": "INDIGO",
+      "red": "47"
+    },
+    {
+      "blue": "146",
+      "green": "95",
+      "label": "VIOLET",
+      "red": "131"
+    },
+    {
+      "blue": "72",
+      "green": "203",
+      "label": "YELLOW",
+      "red": "212"
+    },
+    {
+      "blue": "20",
+      "green": "255",
+      "label": "YELLOW",
+      "red": "222"
+    },
+    {
+      "blue": "98",
+      "green": "33",
+      "label": "INDIGO",
+      "red": "22"
+    },
+    {
+      "blue": "52",
+      "green": "21",
+      "label": "RED",
+      "red": "249"
+    },
+    {
+      "blue": "135",
+      "green": "223",
+      "label": "YELLOW",
+      "red": "215"
+    },
+    {
+      "blue": "182",
+      "green": "92",
+      "label": "INDIGO",
+      "red": "86"
+    },
+    {
+      "blue": "186",
+      "green": "40",
+      "label": "VIOLET",
+      "red": "131"
+    },
+    {
+      "blue": "241",
+      "green": "169",
+      "label": "BLUE",
+      "red": "50"
+    },
+    {
+      "blue": "122",
+      "green": "249",
+      "label": "YELLOW",
+      "red": "226"
+    },
+    {
+      "blue": "28",
+      "green": "100",
+      "label": "GREEN",
+      "red": "87"
+    },
+    {
+      "blue": "111",
+      "green": "229",
+      "label": "GREEN",
+      "red": "15"
+    },
+    {
+      "blue": "199",
+      "green": "122",
+      "label": "VIOLET",
+      "red": "194"
+    },
+    {
+      "blue": "237",
+      "green": "158",
+      "label": "BLUE",
+      "red": "32"
+    },
+    {
+      "blue": "186",
+      "green": "128",
+      "label": "BLUE",
+      "red": "61"
+    },
+    {
+      "blue": "56",
+      "green": "67",
+      "label": "ORANGE",
+      "red": "101"
+    },
+    {
+      "blue": "28",
+      "green": "117",
+      "label": "GREEN",
+      "red": "32"
+    },
+    {
+      "blue": "234",
+      "green": "71",
+      "label": "VIOLET",
+      "red": "154"
+    },
+    {
+      "blue": "158",
+      "green": "229",
+      "label": "GREEN",
+      "red": "156"
+    },
+    {
+      "blue": "156",
+      "green": "17",
+      "label": "VIOLET",
+      "red": "197"
+    },
+    {
+      "blue": "237",
+      "green": "63",
+      "label": "INDIGO",
+      "red": "109"
+    },
+    {
+      "blue": "252",
+      "green": "46",
+      "label": "INDIGO",
+      "red": "30"
+    },
+    {
+      "blue": "176",
+      "green": "37",
+      "label": "INDIGO",
+      "red": "1"
+    },
+    {
+      "blue": "165",
+      "green": "201",
+      "label": "GREEN",
+      "red": "83"
+    },
+    {
+      "blue": "42",
+      "green": "1",
+      "label": "NONE",
+      "red": "34"
+    },
+    {
+      "blue": "208",
+      "green": "7",
+      "label": "INDIGO",
+      "red": "16"
+    },
+    {
+      "blue": "180",
+      "green": "167",
+      "label": "BLUE",
+      "red": "79"
+    },
+    {
+      "blue": "60",
+      "green": "32",
+      "label": "RED",
+      "red": "128"
+    },
+    {
+      "blue": "112",
+      "green": "72",
+      "label": "INDIGO",
+      "red": "71"
+    },
+    {
+      "blue": "152",
+      "green": "229",
+      "label": "YELLOW",
+      "red": "237"
+    },
+    {
+      "blue": "203",
+      "green": "154",
+      "label": "BLUE",
+      "red": "34"
+    },
+    {
+      "blue": "135",
+      "green": "141",
+      "label": "NONE",
+      "red": "143"
+    },
+    {
+      "blue": "154",
+      "green": "149",
+      "label": "NONE",
+      "red": "137"
+    },
+    {
+      "blue": "194",
+      "green": "75",
+      "label": "RED",
+      "red": "236"
+    },
+    {
+      "blue": "186",
+      "green": "109",
+      "label": "RED",
+      "red": "221"
+    },
+    {
+      "blue": "98",
+      "green": "198",
+      "label": "GREEN",
+      "red": "76"
+    },
+    {
+      "blue": "95",
+      "green": "164",
+      "label": "ORANGE",
+      "red": "227"
+    },
+    {
+      "blue": "143",
+      "green": "130",
+      "label": "BLUE",
+      "red": "44"
+    },
+    {
+      "blue": "21",
+      "green": "12",
+      "label": "RED",
+      "red": "119"
+    },
+    {
+      "blue": "82",
+      "green": "164",
+      "label": "GREEN",
+      "red": "1"
+    },
+    {
+      "blue": "71",
+      "green": "183",
+      "label": "YELLOW",
+      "red": "190"
+    },
+    {
+      "blue": "53",
+      "green": "22",
+      "label": "RED",
+      "red": "155"
+    },
+    {
+      "blue": "167",
+      "green": "107",
+      "label": "BLUE",
+      "red": "101"
+    },
+    {
+      "blue": "233",
+      "green": "48",
+      "label": "VIOLET",
+      "red": "166"
+    },
+    {
+      "blue": "176",
+      "green": "230",
+      "label": "GREEN",
+      "red": "206"
+    },
+    {
+      "blue": "230",
+      "green": "11",
+      "label": "INDIGO",
+      "red": "3"
+    },
+    {
+      "blue": "65",
+      "green": "163",
+      "label": "GREEN",
+      "red": "109"
+    },
+    {
+      "blue": "163",
+      "green": "152",
+      "label": "RED",
+      "red": "217"
+    },
+    {
+      "blue": "7",
+      "green": "215",
+      "label": "GREEN",
+      "red": "178"
+    },
+    {
+      "blue": "186",
+      "green": "76",
+      "label": "INDIGO",
+      "red": "39"
+    },
+    {
+      "blue": "152",
+      "green": "7",
+      "label": "VIOLET",
+      "red": "174"
+    },
+    {
+      "blue": "234",
+      "green": "31",
+      "label": "VIOLET",
+      "red": "185"
+    },
+    {
+      "blue": "183",
+      "green": "48",
+      "label": "VIOLET",
+      "red": "174"
+    },
+    {
+      "blue": "234",
+      "green": "211",
+      "label": "BLUE",
+      "red": "151"
+    },
+    {
+      "blue": "58",
+      "green": "34",
+      "label": "RED",
+      "red": "231"
+    },
+    {
+      "blue": "187",
+      "green": "141",
+      "label": "INDIGO",
+      "red": "126"
+    },
+    {
+      "blue": "173",
+      "green": "92",
+      "label": "VIOLET",
+      "red": "168"
+    },
+    {
+      "blue": "200",
+      "green": "144",
+      "label": "VIOLET",
+      "red": "178"
+    },
+    {
+      "blue": "165",
+      "green": "34",
+      "label": "INDIGO",
+      "red": "57"
+    },
+    {
+      "blue": "147",
+      "green": "146",
+      "label": "NONE",
+      "red": "151"
+    },
+    {
+      "blue": "76",
+      "green": "177",
+      "label": "GREEN",
+      "red": "125"
+    },
+    {
+      "blue": "198",
+      "green": "83",
+      "label": "VIOLET",
+      "red": "212"
+    },
+    {
+      "blue": "2",
+      "green": "230",
+      "label": "YELLOW",
+      "red": "249"
+    },
+    {
+      "blue": "235",
+      "green": "108",
+      "label": "VIOLET",
+      "red": "196"
+    },
+    {
+      "blue": "125",
+      "green": "52",
+      "label": "VIOLET",
+      "red": "89"
+    },
+    {
+      "blue": "53",
+      "green": "236",
+      "label": "GREEN",
+      "red": "56"
+    },
+    {
+      "blue": "56",
+      "green": "15",
+      "label": "RED",
+      "red": "113"
+    },
+    {
+      "blue": "241",
+      "green": "29",
+      "label": "INDIGO",
+      "red": "103"
+    },
+    {
+      "blue": "81",
+      "green": "189",
+      "label": "ORANGE",
+      "red": "235"
+    },
+    {
+      "blue": "247",
+      "green": "214",
+      "label": "VIOLET",
+      "red": "227"
+    },
+    {
+      "blue": "152",
+      "green": "209",
+      "label": "GREEN",
+      "red": "30"
+    },
+    {
+      "blue": "10",
+      "green": "171",
+      "label": "ORANGE",
+      "red": "254"
+    },
+    {
+      "blue": "80",
+      "green": "30",
+      "label": "RED",
+      "red": "233"
+    },
+    {
+      "blue": "10",
+      "green": "122",
+      "label": "GREEN",
+      "red": "69"
+    },
+    {
+      "blue": "107",
+      "green": "152",
+      "label": "GREEN",
+      "red": "162"
+    },
+    {
+      "blue": "215",
+      "green": "137",
+      "label": "VIOLET",
+      "red": "183"
+    },
+    {
+      "blue": "171",
+      "green": "118",
+      "label": "INDIGO",
+      "red": "9"
+    },
+    {
+      "blue": "35",
+      "green": "254",
+      "label": "GREEN",
+      "red": "113"
+    },
+    {
+      "blue": "162",
+      "green": "70",
+      "label": "INDIGO",
+      "red": "74"
+    },
+    {
+      "blue": "174",
+      "green": "126",
+      "label": "BLUE",
+      "red": "8"
+    },
+    {
+      "blue": "240",
+      "green": "141",
+      "label": "VIOLET",
+      "red": "167"
+    },
+    {
+      "blue": "45",
+      "green": "155",
+      "label": "ORANGE",
+      "red": "194"
+    },
+    {
+      "blue": "190",
+      "green": "184",
+      "label": "BLUE",
+      "red": "129"
+    },
+    {
+      "blue": "120",
+      "green": "73",
+      "label": "VIOLET",
+      "red": "135"
+    },
+    {
+      "blue": "206",
+      "green": "131",
+      "label": "VIOLET",
+      "red": "170"
+    },
+    {
+      "blue": "74",
+      "green": "152",
+      "label": "GREEN",
+      "red": "127"
+    },
+    {
+      "blue": "246",
+      "green": "45",
+      "label": "VIOLET",
+      "red": "175"
+    },
+    {
+      "blue": "220",
+      "green": "80",
+      "label": "VIOLET",
+      "red": "170"
+    },
+    {
+      "blue": "6",
+      "green": "70",
+      "label": "GREEN",
+      "red": "44"
+    },
+    {
+      "blue": "46",
+      "green": "156",
+      "label": "GREEN",
+      "red": "79"
+    },
+    {
+      "blue": "41",
+      "green": "154",
+      "label": "GREEN",
+      "red": "29"
+    },
+    {
+      "blue": "240",
+      "green": "68",
+      "label": "VIOLET",
+      "red": "133"
+    },
+    {
+      "blue": "254",
+      "green": "198",
+      "label": "BLUE",
+      "red": "69"
+    },
+    {
+      "blue": "89",
+      "green": "118",
+      "label": "GREEN",
+      "red": "29"
+    },
+    {
+      "blue": "86",
+      "green": "98",
+      "label": "ORANGE",
+      "red": "148"
+    },
+    {
+      "blue": "116",
+      "green": "133",
+      "label": "GREEN",
+      "red": "91"
+    },
+    {
+      "blue": "247",
+      "green": "177",
+      "label": "BLUE",
+      "red": "165"
+    },
+    {
+      "blue": "213",
+      "green": "99",
+      "label": "VIOLET",
+      "red": "223"
+    },
+    {
+      "blue": "20",
+      "green": "169",
+      "label": "GREEN",
+      "red": "158"
+    },
+    {
+      "blue": "199",
+      "green": "150",
+      "label": "BLUE",
+      "red": "160"
+    },
+    {
+      "blue": "73",
+      "green": "218",
+      "label": "GREEN",
+      "red": "176"
+    },
+    {
+      "blue": "202",
+      "green": "24",
+      "label": "RED",
+      "red": "241"
+    },
+    {
+      "blue": "15",
+      "green": "51",
+      "label": "RED",
+      "red": "173"
+    },
+    {
+      "blue": "31",
+      "green": "123",
+      "label": "ORANGE",
+      "red": "164"
+    },
+    {
+      "blue": "214",
+      "green": "188",
+      "label": "BLUE",
+      "red": "36"
+    },
+    {
+      "blue": "66",
+      "green": "179",
+      "label": "GREEN",
+      "red": "176"
+    },
+    {
+      "blue": "4",
+      "green": "34",
+      "label": "RED",
+      "red": "149"
+    },
+    {
+      "blue": "105",
+      "green": "51",
+      "label": "VIOLET",
+      "red": "129"
+    },
+    {
+      "blue": "192",
+      "green": "244",
+      "label": "BLUE",
+      "red": "25"
+    },
+    {
+      "blue": "219",
+      "green": "133",
+      "label": "BLUE",
+      "red": "80"
+    },
+    {
+      "blue": "90",
+      "green": "235",
+      "label": "YELLOW",
+      "red": "213"
+    },
+    {
+      "blue": "186",
+      "green": "229",
+      "label": "YELLOW",
+      "red": "235"
+    },
+    {
+      "blue": "18",
+      "green": "28",
+      "label": "NONE",
+      "red": "48"
+    },
+    {
+      "blue": "73",
+      "green": "136",
+      "label": "GREEN",
+      "red": "80"
+    },
+    {
+      "blue": "12",
+      "green": "164",
+      "label": "GREEN",
+      "red": "17"
+    },
+    {
+      "blue": "104",
+      "green": "50",
+      "label": "VIOLET",
+      "red": "106"
+    },
+    {
+      "blue": "152",
+      "green": "155",
+      "label": "BLUE",
+      "red": "124"
+    },
+    {
+      "blue": "86",
+      "green": "152",
+      "label": "GREEN",
+      "red": "5"
+    },
+    {
+      "blue": "132",
+      "green": "220",
+      "label": "GREEN",
+      "red": "130"
+    },
+    {
+      "blue": "99",
+      "green": "173",
+      "label": "GREEN",
+      "red": "100"
+    },
+    {
+      "blue": "252",
+      "green": "192",
+      "label": "VIOLET",
+      "red": "197"
+    },
+    {
+      "blue": "96",
+      "green": "228",
+      "label": "GREEN",
+      "red": "12"
+    },
+    {
+      "blue": "248",
+      "green": "78",
+      "label": "VIOLET",
+      "red": "227"
+    },
+    {
+      "blue": "207",
+      "green": "179",
+      "label": "BLUE",
+      "red": "119"
+    },
+    {
+      "blue": "7",
+      "green": "131",
+      "label": "GREEN",
+      "red": "100"
+    },
+    {
+      "blue": "156",
+      "green": "99",
+      "label": "BLUE",
+      "red": "40"
+    },
+    {
+      "blue": "54",
+      "green": "57",
+      "label": "RED",
+      "red": "201"
+    },
+    {
+      "blue": "1",
+      "green": "222",
+      "label": "GREEN",
+      "red": "77"
+    },
+    {
+      "blue": "46",
+      "green": "116",
+      "label": "GREEN",
+      "red": "93"
+    },
+    {
+      "blue": "234",
+      "green": "165",
+      "label": "VIOLET",
+      "red": "194"
+    },
+    {
+      "blue": "45",
+      "green": "112",
+      "label": "ORANGE",
+      "red": "153"
+    },
+    {
+      "blue": "19",
+      "green": "212",
+      "label": "GREEN",
+      "red": "69"
+    },
+    {
+      "blue": "188",
+      "green": "83",
+      "label": "INDIGO",
+      "red": "46"
+    },
+    {
+      "blue": "137",
+      "green": "209",
+      "label": "GREEN",
+      "red": "107"
+    },
+    {
+      "blue": "8",
+      "green": "172",
+      "label": "GREEN",
+      "red": "89"
+    },
+    {
+      "blue": "55",
+      "green": "202",
+      "label": "GREEN",
+      "red": "176"
+    },
+    {
+      "blue": "121",
+      "green": "152",
+      "label": "ORANGE",
+      "red": "193"
+    },
+    {
+      "blue": "255",
+      "green": "54",
+      "label": "VIOLET",
+      "red": "163"
+    },
+    {
+      "blue": "34",
+      "green": "217",
+      "label": "GREEN",
+      "red": "55"
+    },
+    {
+      "blue": "153",
+      "green": "192",
+      "label": "GREEN",
+      "red": "64"
+    },
+    {
+      "blue": "213",
+      "green": "9",
+      "label": "VIOLET",
+      "red": "111"
+    },
+    {
+      "blue": "164",
+      "green": "222",
+      "label": "GREEN",
+      "red": "117"
+    },
+    {
+      "blue": "0",
+      "green": "54",
+      "label": "NONE",
+      "red": "30"
+    },
+    {
+      "blue": "220",
+      "green": "23",
+      "label": "VIOLET",
+      "red": "152"
+    },
+    {
+      "blue": "239",
+      "green": "77",
+      "label": "VIOLET",
+      "red": "139"
+    },
+    {
+      "blue": "217",
+      "green": "207",
+      "label": "BLUE",
+      "red": "79"
+    },
+    {
+      "blue": "208",
+      "green": "196",
+      "label": "VIOLET",
+      "red": "202"
+    },
+    {
+      "blue": "119",
+      "green": "151",
+      "label": "GREEN",
+      "red": "55"
+    },
+    {
+      "blue": "49",
+      "green": "149",
+      "label": "GREEN",
+      "red": "80"
+    },
+    {
+      "blue": "191",
+      "green": "144",
+      "label": "RED",
+      "red": "250"
+    },
+    {
+      "blue": "198",
+      "green": "161",
+      "label": "RED",
+      "red": "233"
+    },
+    {
+      "blue": "210",
+      "green": "126",
+      "label": "RED",
+      "red": "229"
+    },
+    {
+      "blue": "159",
+      "green": "209",
+      "label": "YELLOW",
+      "red": "225"
+    },
+    {
+      "blue": "38",
+      "green": "105",
+      "label": "ORANGE",
+      "red": "169"
+    },
+    {
+      "blue": "50",
+      "green": "101",
+      "label": "GREEN",
+      "red": "77"
+    },
+    {
+      "blue": "218",
+      "green": "198",
+      "label": "VIOLET",
+      "red": "217"
+    },
+    {
+      "blue": "2",
+      "green": "124",
+      "label": "ORANGE",
+      "red": "242"
+    },
+    {
+      "blue": "144",
+      "green": "72",
+      "label": "RED",
+      "red": "201"
+    },
+    {
+      "blue": "39",
+      "green": "33",
+      "label": "RED",
+      "red": "230"
+    },
+    {
+      "blue": "237",
+      "green": "4",
+      "label": "VIOLET",
+      "red": "151"
+    },
+    {
+      "blue": "242",
+      "green": "103",
+      "label": "VIOLET",
+      "red": "218"
+    },
+    {
+      "blue": "191",
+      "green": "180",
+      "label": "BLUE",
+      "red": "42"
+    },
+    {
+      "blue": "223",
+      "green": "246",
+      "label": "BLUE",
+      "red": "145"
+    },
+    {
+      "blue": "91",
+      "green": "57",
+      "label": "RED",
+      "red": "191"
+    },
+    {
+      "blue": "130",
+      "green": "55",
+      "label": "RED",
+      "red": "232"
+    },
+    {
+      "blue": "101",
+      "green": "48",
+      "label": "RED",
+      "red": "241"
+    },
+    {
+      "blue": "214",
+      "green": "239",
+      "label": "GREEN",
+      "red": "196"
+    },
+    {
+      "blue": "13",
+      "green": "162",
+      "label": "ORANGE",
+      "red": "196"
+    },
+    {
+      "blue": "235",
+      "green": "235",
+      "label": "BLUE",
+      "red": "226"
+    },
+    {
+      "blue": "47",
+      "green": "36",
+      "label": "RED",
+      "red": "194"
+    },
+    {
+      "blue": "120",
+      "green": "191",
+      "label": "GREEN",
+      "red": "79"
+    },
+    {
+      "blue": "243",
+      "green": "153",
+      "label": "BLUE",
+      "red": "98"
+    },
+    {
+      "blue": "103",
+      "green": "9",
+      "label": "INDIGO",
+      "red": "6"
+    },
+    {
+      "blue": "149",
+      "green": "194",
+      "label": "GREEN",
+      "red": "10"
+    },
+    {
+      "blue": "245",
+      "green": "0",
+      "label": "INDIGO",
+      "red": "91"
+    },
+    {
+      "blue": "26",
+      "green": "206",
+      "label": "YELLOW",
+      "red": "255"
+    },
+    {
+      "blue": "76",
+      "green": "167",
+      "label": "GREEN",
+      "red": "71"
+    },
+    {
+      "blue": "218",
+      "green": "140",
+      "label": "BLUE",
+      "red": "125"
+    },
+    {
+      "blue": "153",
+      "green": "57",
+      "label": "INDIGO",
+      "red": "86"
+    },
+    {
+      "blue": "172",
+      "green": "238",
+      "label": "GREEN",
+      "red": "41"
+    },
+    {
+      "blue": "247",
+      "green": "54",
+      "label": "VIOLET",
+      "red": "164"
+    },
+    {
+      "blue": "184",
+      "green": "2",
+      "label": "VIOLET",
+      "red": "198"
+    },
+    {
+      "blue": "77",
+      "green": "74",
+      "label": "RED",
+      "red": "168"
+    },
+    {
+      "blue": "159",
+      "green": "13",
+      "label": "INDIGO",
+      "red": "2"
+    },
+    {
+      "blue": "146",
+      "green": "201",
+      "label": "GREEN",
+      "red": "157"
+    },
+    {
+      "blue": "211",
+      "green": "112",
+      "label": "VIOLET",
+      "red": "212"
+    },
+    {
+      "blue": "255",
+      "green": "149",
+      "label": "BLUE",
+      "red": "134"
+    },
+    {
+      "blue": "173",
+      "green": "204",
+      "label": "ORANGE",
+      "red": "245"
+    },
+    {
+      "blue": "172",
+      "green": "84",
+      "label": "INDIGO",
+      "red": "50"
+    },
+    {
+      "blue": "242",
+      "green": "132",
+      "label": "VIOLET",
+      "red": "215"
+    },
+    {
+      "blue": "93",
+      "green": "250",
+      "label": "GREEN",
+      "red": "55"
+    },
+    {
+      "blue": "95",
+      "green": "13",
+      "label": "INDIGO",
+      "red": "17"
+    },
+    {
+      "blue": "113",
+      "green": "217",
+      "label": "GREEN",
+      "red": "38"
+    },
+    {
+      "blue": "51",
+      "green": "244",
+      "label": "GREEN",
+      "red": "169"
+    },
+    {
+      "blue": "63",
+      "green": "187",
+      "label": "ORANGE",
+      "red": "237"
+    },
+    {
+      "blue": "182",
+      "green": "137",
+      "label": "VIOLET",
+      "red": "173"
+    },
+    {
+      "blue": "210",
+      "green": "16",
+      "label": "RED",
+      "red": "230"
+    },
+    {
+      "blue": "41",
+      "green": "228",
+      "label": "YELLOW",
+      "red": "255"
+    },
+    {
+      "blue": "201",
+      "green": "132",
+      "label": "VIOLET",
+      "red": "188"
+    },
+    {
+      "blue": "218",
+      "green": "228",
+      "label": "RED",
+      "red": "252"
+    },
+    {
+      "blue": "41",
+      "green": "241",
+      "label": "GREEN",
+      "red": "60"
+    },
+    {
+      "blue": "4",
+      "green": "237",
+      "label": "GREEN",
+      "red": "17"
+    },
+    {
+      "blue": "129",
+      "green": "26",
+      "label": "INDIGO",
+      "red": "17"
+    },
+    {
+      "blue": "196",
+      "green": "214",
+      "label": "GREEN",
+      "red": "192"
+    },
+    {
+      "blue": "150",
+      "green": "169",
+      "label": "GREEN",
+      "red": "73"
+    },
+    {
+      "blue": "155",
+      "green": "22",
+      "label": "VIOLET",
+      "red": "194"
+    },
+    {
+      "blue": "110",
+      "green": "113",
+      "label": "GREEN",
+      "red": "3"
+    },
+    {
+      "blue": "107",
+      "green": "83",
+      "label": "RED",
+      "red": "235"
+    },
+    {
+      "blue": "155",
+      "green": "114",
+      "label": "RED",
+      "red": "180"
+    },
+    {
+      "blue": "210",
+      "green": "176",
+      "label": "BLUE",
+      "red": "115"
+    },
+    {
+      "blue": "245",
+      "green": "175",
+      "label": "BLUE",
+      "red": "106"
+    },
+    {
+      "blue": "252",
+      "green": "235",
+      "label": "BLUE",
+      "red": "6"
+    },
+    {
+      "blue": "156",
+      "green": "208",
+      "label": "GREEN",
+      "red": "25"
+    },
+    {
+      "blue": "120",
+      "green": "191",
+      "label": "GREEN",
+      "red": "148"
+    },
+    {
+      "blue": "9",
+      "green": "213",
+      "label": "GREEN",
+      "red": "35"
+    },
+    {
+      "blue": "37",
+      "green": "134",
+      "label": "ORANGE",
+      "red": "166"
+    },
+    {
+      "blue": "69",
+      "green": "43",
+      "label": "RED",
+      "red": "117"
+    },
+    {
+      "blue": "53",
+      "green": "128",
+      "label": "ORANGE",
+      "red": "176"
+    },
+    {
+      "blue": "184",
+      "green": "254",
+      "label": "GREEN",
+      "red": "152"
+    },
+    {
+      "blue": "149",
+      "green": "166",
+      "label": "RED",
+      "red": "219"
+    },
+    {
+      "blue": "117",
+      "green": "157",
+      "label": "RED",
+      "red": "229"
+    },
+    {
+      "blue": "2",
+      "green": "114",
+      "label": "ORANGE",
+      "red": "252"
+    },
+    {
+      "blue": "234",
+      "green": "108",
+      "label": "BLUE",
+      "red": "24"
+    },
+    {
+      "blue": "64",
+      "green": "40",
+      "label": "BLUE",
+      "red": "8"
+    },
+    {
+      "blue": "65",
+      "green": "210",
+      "label": "GREEN",
+      "red": "107"
+    },
+    {
+      "blue": "80",
+      "green": "212",
+      "label": "GREEN",
+      "red": "115"
+    },
+    {
+      "blue": "9",
+      "green": "166",
+      "label": "GREEN",
+      "red": "159"
+    },
+    {
+      "blue": "170",
+      "green": "109",
+      "label": "BLUE",
+      "red": "40"
+    },
+    {
+      "blue": "188",
+      "green": "197",
+      "label": "BLUE",
+      "red": "51"
+    },
+    {
+      "blue": "98",
+      "green": "221",
+      "label": "GREEN",
+      "red": "8"
+    },
+    {
+      "blue": "51",
+      "green": "234",
+      "label": "GREEN",
+      "red": "188"
+    },
+    {
+      "blue": "156",
+      "green": "124",
+      "label": "VIOLET",
+      "red": "137"
+    },
+    {
+      "blue": "149",
+      "green": "128",
+      "label": "RED",
+      "red": "213"
+    },
+    {
+      "blue": "163",
+      "green": "44",
+      "label": "VIOLET",
+      "red": "134"
+    },
+    {
+      "blue": "187",
+      "green": "192",
+      "label": "NONE",
+      "red": "182"
+    },
+    {
+      "blue": "35",
+      "green": "221",
+      "label": "YELLOW",
+      "red": "230"
+    },
+    {
+      "blue": "207",
+      "green": "57",
+      "label": "INDIGO",
+      "red": "83"
+    },
+    {
+      "blue": "126",
+      "green": "99",
+      "label": "VIOLET",
+      "red": "122"
+    },
+    {
+      "blue": "62",
+      "green": "55",
+      "label": "NONE",
+      "red": "4"
+    },
+    {
+      "blue": "102",
+      "green": "212",
+      "label": "GREEN",
+      "red": "38"
+    },
+    {
+      "blue": "29",
+      "green": "179",
+      "label": "GREEN",
+      "red": "96"
+    },
+    {
+      "blue": "202",
+      "green": "46",
+      "label": "VIOLET",
+      "red": "150"
+    },
+    {
+      "blue": "107",
+      "green": "17",
+      "label": "INDIGO",
+      "red": "49"
+    },
+    {
+      "blue": "218",
+      "green": "216",
+      "label": "BLUE",
+      "red": "29"
+    },
+    {
+      "blue": "169",
+      "green": "66",
+      "label": "VIOLET",
+      "red": "193"
+    },
+    {
+      "blue": "242",
+      "green": "185",
+      "label": "BLUE",
+      "red": "178"
+    },
+    {
+      "blue": "228",
+      "green": "245",
+      "label": "BLUE",
+      "red": "151"
+    },
+    {
+      "blue": "113",
+      "green": "239",
+      "label": "GREEN",
+      "red": "77"
+    },
+    {
+      "blue": "81",
+      "green": "198",
+      "label": "GREEN",
+      "red": "130"
+    },
+    {
+      "blue": "246",
+      "green": "192",
+      "label": "BLUE",
+      "red": "95"
+    },
+    {
+      "blue": "82",
+      "green": "205",
+      "label": "GREEN",
+      "red": "108"
+    },
+    {
+      "blue": "229",
+      "green": "209",
+      "label": "BLUE",
+      "red": "136"
+    },
+    {
+      "blue": "231",
+      "green": "27",
+      "label": "INDIGO",
+      "red": "1"
+    },
+    {
+      "blue": "252",
+      "green": "230",
+      "label": "BLUE",
+      "red": "11"
+    },
+    {
+      "blue": "90",
+      "green": "106",
+      "label": "GREEN",
+      "red": "77"
+    },
+    {
+      "blue": "103",
+      "green": "77",
+      "label": "RED",
+      "red": "122"
+    },
+    {
+      "blue": "20",
+      "green": "56",
+      "label": "RED",
+      "red": "240"
+    },
+    {
+      "blue": "41",
+      "green": "110",
+      "label": "ORANGE",
+      "red": "151"
+    },
+    {
+      "blue": "124",
+      "green": "225",
+      "label": "GREEN",
+      "red": "139"
+    },
+    {
+      "blue": "111",
+      "green": "192",
+      "label": "GREEN",
+      "red": "47"
+    },
+    {
+      "blue": "13",
+      "green": "86",
+      "label": "ORANGE",
+      "red": "148"
+    },
+    {
+      "blue": "117",
+      "green": "169",
+      "label": "RED",
+      "red": "241"
+    },
+    {
+      "blue": "6",
+      "green": "105",
+      "label": "GREEN",
+      "red": "116"
+    },
+    {
+      "blue": "64",
+      "green": "4",
+      "label": "RED",
+      "red": "243"
+    },
+    {
+      "blue": "69",
+      "green": "149",
+      "label": "GREEN",
+      "red": "98"
+    },
+    {
+      "blue": "244",
+      "green": "94",
+      "label": "INDIGO",
+      "red": "91"
+    },
+    {
+      "blue": "30",
+      "green": "239",
+      "label": "GREEN",
+      "red": "147"
+    },
+    {
+      "blue": "76",
+      "green": "94",
+      "label": "NONE",
+      "red": "110"
+    },
+    {
+      "blue": "161",
+      "green": "163",
+      "label": "BLUE",
+      "red": "27"
+    },
+    {
+      "blue": "81",
+      "green": "140",
+      "label": "ORANGE",
+      "red": "208"
+    },
+    {
+      "blue": "115",
+      "green": "250",
+      "label": "GREEN",
+      "red": "96"
+    },
+    {
+      "blue": "98",
+      "green": "88",
+      "label": "INDIGO",
+      "red": "9"
+    },
+    {
+      "blue": "7",
+      "green": "99",
+      "label": "ORANGE",
+      "red": "164"
+    },
+    {
+      "blue": "157",
+      "green": "242",
+      "label": "GREEN",
+      "red": "207"
+    },
+    {
+      "blue": "210",
+      "green": "25",
+      "label": "VIOLET",
+      "red": "199"
+    },
+    {
+      "blue": "217",
+      "green": "209",
+      "label": "BLUE",
+      "red": "69"
+    },
+    {
+      "blue": "210",
+      "green": "193",
+      "label": "BLUE",
+      "red": "22"
+    },
+    {
+      "blue": "247",
+      "green": "41",
+      "label": "VIOLET",
+      "red": "147"
+    },
+    {
+      "blue": "3",
+      "green": "153",
+      "label": "ORANGE",
+      "red": "194"
+    },
+    {
+      "blue": "255",
+      "green": "61",
+      "label": "VIOLET",
+      "red": "187"
+    },
+    {
+      "blue": "10",
+      "green": "200",
+      "label": "YELLOW",
+      "red": "206"
+    },
+    {
+      "blue": "166",
+      "green": "225",
+      "label": "GREEN",
+      "red": "55"
+    },
+    {
+      "blue": "94",
+      "green": "68",
+      "label": "VIOLET",
+      "red": "88"
+    },
+    {
+      "blue": "221",
+      "green": "164",
+      "label": "BLUE",
+      "red": "52"
+    },
+    {
+      "blue": "174",
+      "green": "160",
+      "label": "BLUE",
+      "red": "117"
+    },
+    {
+      "blue": "218",
+      "green": "81",
+      "label": "VIOLET",
+      "red": "212"
+    },
+    {
+      "blue": "41",
+      "green": "247",
+      "label": "GREEN",
+      "red": "196"
+    },
+    {
+      "blue": "104",
+      "green": "136",
+      "label": "ORANGE",
+      "red": "192"
+    },
+    {
+      "blue": "35",
+      "green": "111",
+      "label": "GREEN",
+      "red": "105"
+    },
+    {
+      "blue": "172",
+      "green": "44",
+      "label": "VIOLET",
+      "red": "157"
+    },
+    {
+      "blue": "25",
+      "green": "255",
+      "label": "YELLOW",
+      "red": "223"
+    },
+    {
+      "blue": "140",
+      "green": "43",
+      "label": "INDIGO",
+      "red": "49"
+    },
+    {
+      "blue": "197",
+      "green": "122",
+      "label": "VIOLET",
+      "red": "162"
+    },
+    {
+      "blue": "231",
+      "green": "72",
+      "label": "VIOLET",
+      "red": "237"
+    },
+    {
+      "blue": "63",
+      "green": "250",
+      "label": "GREEN",
+      "red": "200"
+    },
+    {
+      "blue": "110",
+      "green": "120",
+      "label": "RED",
+      "red": "180"
+    },
+    {
+      "blue": "190",
+      "green": "5",
+      "label": "INDIGO",
+      "red": "83"
+    },
+    {
+      "blue": "152",
+      "green": "20",
+      "label": "VIOLET",
+      "red": "167"
+    },
+    {
+      "blue": "56",
+      "green": "132",
+      "label": "GREEN",
+      "red": "30"
+    },
+    {
+      "blue": "192",
+      "green": "213",
+      "label": "GREEN",
+      "red": "201"
+    },
+    {
+      "blue": "44",
+      "green": "141",
+      "label": "GREEN",
+      "red": "22"
+    },
+    {
+      "blue": "33",
+      "green": "23",
+      "label": "RED",
+      "red": "221"
+    },
+    {
+      "blue": "245",
+      "green": "249",
+      "label": "BLUE",
+      "red": "92"
+    },
+    {
+      "blue": "90",
+      "green": "253",
+      "label": "GREEN",
+      "red": "208"
+    },
+    {
+      "blue": "239",
+      "green": "211",
+      "label": "BLUE",
+      "red": "59"
+    },
+    {
+      "blue": "107",
+      "green": "35",
+      "label": "VIOLET",
+      "red": "71"
+    },
+    {
+      "blue": "121",
+      "green": "254",
+      "label": "GREEN",
+      "red": "205"
+    },
+    {
+      "blue": "198",
+      "green": "62",
+      "label": "INDIGO",
+      "red": "14"
+    },
+    {
+      "blue": "47",
+      "green": "86",
+      "label": "ORANGE",
+      "red": "204"
+    },
+    {
+      "blue": "245",
+      "green": "86",
+      "label": "BLUE",
+      "red": "71"
+    },
+    {
+      "blue": "136",
+      "green": "204",
+      "label": "GREEN",
+      "red": "148"
+    },
+    {
+      "blue": "41",
+      "green": "181",
+      "label": "GREEN",
+      "red": "81"
+    },
+    {
+      "blue": "8",
+      "green": "133",
+      "label": "GREEN",
+      "red": "104"
+    },
+    {
+      "blue": "16",
+      "green": "121",
+      "label": "GREEN",
+      "red": "89"
+    },
+    {
+      "blue": "163",
+      "green": "113",
+      "label": "RED",
+      "red": "214"
+    },
+    {
+      "blue": "249",
+      "green": "140",
+      "label": "BLUE",
+      "red": "3"
+    },
+    {
+      "blue": "37",
+      "green": "50",
+      "label": "RED",
+      "red": "138"
+    },
+    {
+      "blue": "254",
+      "green": "254",
+      "label": "BLUE",
+      "red": "183"
+    },
+    {
+      "blue": "118",
+      "green": "58",
+      "label": "RED",
+      "red": "208"
+    },
+    {
+      "blue": "184",
+      "green": "194",
+      "label": "NONE",
+      "red": "193"
+    },
+    {
+      "blue": "125",
+      "green": "206",
+      "label": "GREEN",
+      "red": "76"
+    },
+    {
+      "blue": "15",
+      "green": "192",
+      "label": "GREEN",
+      "red": "81"
+    },
+    {
+      "blue": "224",
+      "green": "166",
+      "label": "VIOLET",
+      "red": "199"
+    },
+    {
+      "blue": "143",
+      "green": "97",
+      "label": "INDIGO",
+      "red": "81"
+    },
+    {
+      "blue": "221",
+      "green": "13",
+      "label": "INDIGO",
+      "red": "96"
+    },
+    {
+      "blue": "172",
+      "green": "84",
+      "label": "INDIGO",
+      "red": "70"
+    },
+    {
+      "blue": "142",
+      "green": "117",
+      "label": "BLUE",
+      "red": "96"
+    },
+    {
+      "blue": "12",
+      "green": "241",
+      "label": "GREEN",
+      "red": "130"
+    },
+    {
+      "blue": "76",
+      "green": "2",
+      "label": "INDIGO",
+      "red": "8"
+    },
+    {
+      "blue": "80",
+      "green": "125",
+      "label": "GREEN",
+      "red": "78"
+    },
+    {
+      "blue": "147",
+      "green": "169",
+      "label": "GREEN",
+      "red": "113"
+    },
+    {
+      "blue": "165",
+      "green": "44",
+      "label": "INDIGO",
+      "red": "35"
+    },
+    {
+      "blue": "157",
+      "green": "164",
+      "label": "GREEN",
+      "red": "87"
+    },
+    {
+      "blue": "158",
+      "green": "11",
+      "label": "INDIGO",
+      "red": "77"
+    },
+    {
+      "blue": "115",
+      "green": "235",
+      "label": "GREEN",
+      "red": "37"
+    },
+    {
+      "blue": "138",
+      "green": "14",
+      "label": "INDIGO",
+      "red": "26"
+    },
+    {
+      "blue": "211",
+      "green": "193",
+      "label": "BLUE",
+      "red": "33"
+    },
+    {
+      "blue": "97",
+      "green": "174",
+      "label": "GREEN",
+      "red": "85"
+    },
+    {
+      "blue": "117",
+      "green": "222",
+      "label": "GREEN",
+      "red": "107"
+    },
+    {
+      "blue": "9",
+      "green": "208",
+      "label": "GREEN",
+      "red": "154"
+    },
+    {
+      "blue": "86",
+      "green": "158",
+      "label": "ORANGE",
+      "red": "167"
+    },
+    {
+      "blue": "234",
+      "green": "159",
+      "label": "VIOLET",
+      "red": "195"
+    },
+    {
+      "blue": "162",
+      "green": "227",
+      "label": "GREEN",
+      "red": "90"
+    },
+    {
+      "blue": "78",
+      "green": "194",
+      "label": "GREEN",
+      "red": "113"
+    },
+    {
+      "blue": "154",
+      "green": "83",
+      "label": "VIOLET",
+      "red": "168"
+    },
+    {
+      "blue": "83",
+      "green": "33",
+      "label": "RED",
+      "red": "229"
+    },
+    {
+      "blue": "170",
+      "green": "240",
+      "label": "GREEN",
+      "red": "115"
+    },
+    {
+      "blue": "42",
+      "green": "103",
+      "label": "ORANGE",
+      "red": "154"
+    },
+    {
+      "blue": "208",
+      "green": "27",
+      "label": "VIOLET",
+      "red": "158"
+    },
+    {
+      "blue": "239",
+      "green": "74",
+      "label": "INDIGO",
+      "red": "4"
+    },
+    {
+      "blue": "70",
+      "green": "79",
+      "label": "RED",
+      "red": "246"
+    },
+    {
+      "blue": "178",
+      "green": "233",
+      "label": "GREEN",
+      "red": "54"
+    },
+    {
+      "blue": "101",
+      "green": "254",
+      "label": "GREEN",
+      "red": "176"
+    },
+    {
+      "blue": "86",
+      "green": "141",
+      "label": "GREEN",
+      "red": "99"
+    },
+    {
+      "blue": "124",
+      "green": "251",
+      "label": "GREEN",
+      "red": "168"
+    },
+    {
+      "blue": "150",
+      "green": "17",
+      "label": "VIOLET",
+      "red": "174"
+    },
+    {
+      "blue": "159",
+      "green": "234",
+      "label": "GREEN",
+      "red": "95"
+    },
+    {
+      "blue": "216",
+      "green": "231",
+      "label": "GREEN",
+      "red": "160"
+    },
+    {
+      "blue": "155",
+      "green": "208",
+      "label": "GREEN",
+      "red": "154"
+    },
+    {
+      "blue": "132",
+      "green": "180",
+      "label": "NONE",
+      "red": "193"
+    },
+    {
+      "blue": "181",
+      "green": "87",
+      "label": "INDIGO",
+      "red": "22"
+    },
+    {
+      "blue": "148",
+      "green": "165",
+      "label": "GREEN",
+      "red": "116"
+    },
+    {
+      "blue": "236",
+      "green": "61",
+      "label": "INDIGO",
+      "red": "37"
+    },
+    {
+      "blue": "52",
+      "green": "143",
+      "label": "ORANGE",
+      "red": "228"
+    },
+    {
+      "blue": "81",
+      "green": "227",
+      "label": "GREEN",
+      "red": "157"
+    },
+    {
+      "blue": "131",
+      "green": "165",
+      "label": "GREEN",
+      "red": "110"
+    },
+    {
+      "blue": "176",
+      "green": "195",
+      "label": "GREEN",
+      "red": "164"
+    },
+    {
+      "blue": "79",
+      "green": "76",
+      "label": "NONE",
+      "red": "45"
+    },
+    {
+      "blue": "67",
+      "green": "126",
+      "label": "GREEN",
+      "red": "93"
+    },
+    {
+      "blue": "73",
+      "green": "139",
+      "label": "ORANGE",
+      "red": "151"
+    },
+    {
+      "blue": "149",
+      "green": "250",
+      "label": "GREEN",
+      "red": "204"
+    },
+    {
+      "blue": "104",
+      "green": "90",
+      "label": "VIOLET",
+      "red": "137"
+    },
+    {
+      "blue": "45",
+      "green": "218",
+      "label": "GREEN",
+      "red": "82"
+    },
+    {
+      "blue": "186",
+      "green": "106",
+      "label": "BLUE",
+      "red": "29"
+    },
+    {
+      "blue": "227",
+      "green": "206",
+      "label": "VIOLET",
+      "red": "221"
+    },
+    {
+      "blue": "54",
+      "green": "91",
+      "label": "GREEN",
+      "red": "46"
+    },
+    {
+      "blue": "129",
+      "green": "129",
+      "label": "RED",
+      "red": "226"
+    },
+    {
+      "blue": "114",
+      "green": "10",
+      "label": "VIOLET",
+      "red": "104"
+    },
+    {
+      "blue": "113",
+      "green": "215",
+      "label": "GREEN",
+      "red": "151"
+    },
+    {
+      "blue": "92",
+      "green": "201",
+      "label": "GREEN",
+      "red": "137"
+    },
+    {
+      "blue": "4",
+      "green": "234",
+      "label": "YELLOW",
+      "red": "250"
+    },
+    {
+      "blue": "173",
+      "green": "122",
+      "label": "INDIGO",
+      "red": "90"
+    },
+    {
+      "blue": "240",
+      "green": "110",
+      "label": "VIOLET",
+      "red": "227"
+    },
+    {
+      "blue": "39",
+      "green": "246",
+      "label": "GREEN",
+      "red": "13"
+    },
+    {
+      "blue": "138",
+      "green": "33",
+      "label": "RED",
+      "red": "225"
+    },
+    {
+      "blue": "239",
+      "green": "158",
+      "label": "VIOLET",
+      "red": "175"
+    },
+    {
+      "blue": "55",
+      "green": "182",
+      "label": "GREEN",
+      "red": "125"
+    },
+    {
+      "blue": "199",
+      "green": "32",
+      "label": "VIOLET",
+      "red": "114"
+    },
+    {
+      "blue": "254",
+      "green": "67",
+      "label": "VIOLET",
+      "red": "153"
+    },
+    {
+      "blue": "68",
+      "green": "132",
+      "label": "GREEN",
+      "red": "29"
+    },
+    {
+      "blue": "215",
+      "green": "147",
+      "label": "BLUE",
+      "red": "55"
+    },
+    {
+      "blue": "105",
+      "green": "174",
+      "label": "GREEN",
+      "red": "91"
+    },
+    {
+      "blue": "231",
+      "green": "129",
+      "label": "BLUE",
+      "red": "16"
+    },
+    {
+      "blue": "133",
+      "green": "127",
+      "label": "NONE",
+      "red": "126"
+    },
+    {
+      "blue": "208",
+      "green": "175",
+      "label": "BLUE",
+      "red": "160"
+    },
+    {
+      "blue": "108",
+      "green": "74",
+      "label": "VIOLET",
+      "red": "139"
+    },
+    {
+      "blue": "140",
+      "green": "152",
+      "label": "GREEN",
+      "red": "125"
+    },
+    {
+      "blue": "228",
+      "green": "238",
+      "label": "GREEN",
+      "red": "215"
+    },
+    {
+      "blue": "9",
+      "green": "229",
+      "label": "GREEN",
+      "red": "196"
+    },
+    {
+      "blue": "122",
+      "green": "135",
+      "label": "GREEN",
+      "red": "78"
+    },
+    {
+      "blue": "128",
+      "green": "197",
+      "label": "GREEN",
+      "red": "26"
+    },
+    {
+      "blue": "236",
+      "green": "220",
+      "label": "GREEN",
+      "red": "183"
+    },
+    {
+      "blue": "223",
+      "green": "4",
+      "label": "INDIGO",
+      "red": "11"
+    },
+    {
+      "blue": "216",
+      "green": "80",
+      "label": "INDIGO",
+      "red": "4"
+    },
+    {
+      "blue": "69",
+      "green": "35",
+      "label": "RED",
+      "red": "226"
+    },
+    {
+      "blue": "232",
+      "green": "127",
+      "label": "VIOLET",
+      "red": "170"
+    },
+    {
+      "blue": "84",
+      "green": "211",
+      "label": "GREEN",
+      "red": "73"
+    },
+    {
+      "blue": "248",
+      "green": "193",
+      "label": "BLUE",
+      "red": "22"
+    },
+    {
+      "blue": "138",
+      "green": "28",
+      "label": "RED",
+      "red": "205"
+    },
+    {
+      "blue": "177",
+      "green": "94",
+      "label": "INDIGO",
+      "red": "54"
+    },
+    {
+      "blue": "88",
+      "green": "131",
+      "label": "GREEN",
+      "red": "3"
+    },
+    {
+      "blue": "40",
+      "green": "70",
+      "label": "GREEN",
+      "red": "36"
+    },
+    {
+      "blue": "107",
+      "green": "42",
+      "label": "INDIGO",
+      "red": "22"
+    },
+    {
+      "blue": "154",
+      "green": "54",
+      "label": "INDIGO",
+      "red": "16"
+    },
+    {
+      "blue": "253",
+      "green": "21",
+      "label": "INDIGO",
+      "red": "10"
+    },
+    {
+      "blue": "105",
+      "green": "158",
+      "label": "ORANGE",
+      "red": "221"
+    },
+    {
+      "blue": "1",
+      "green": "121",
+      "label": "ORANGE",
+      "red": "251"
+    },
+    {
+      "blue": "255",
+      "green": "4",
+      "label": "VIOLET",
+      "red": "220"
+    },
+    {
+      "blue": "193",
+      "green": "52",
+      "label": "VIOLET",
+      "red": "161"
+    },
+    {
+      "blue": "29",
+      "green": "202",
+      "label": "YELLOW",
+      "red": "200"
+    },
+    {
+      "blue": "27",
+      "green": "242",
+      "label": "GREEN",
+      "red": "94"
+    },
+    {
+      "blue": "204",
+      "green": "79",
+      "label": "INDIGO",
+      "red": "18"
+    },
+    {
+      "blue": "243",
+      "green": "186",
+      "label": "BLUE",
+      "red": "40"
+    },
+    {
+      "blue": "123",
+      "green": "251",
+      "label": "GREEN",
+      "red": "104"
+    },
+    {
+      "blue": "57",
+      "green": "121",
+      "label": "NONE",
+      "red": "162"
+    },
+    {
+      "blue": "47",
+      "green": "0",
+      "label": "RED",
+      "red": "135"
+    },
+    {
+      "blue": "138",
+      "green": "156",
+      "label": "NONE",
+      "red": "165"
+    },
+    {
+      "blue": "212",
+      "green": "209",
+      "label": "BLUE",
+      "red": "38"
+    },
+    {
+      "blue": "247",
+      "green": "226",
+      "label": "BLUE",
+      "red": "206"
+    },
+    {
+      "blue": "91",
+      "green": "105",
+      "label": "GREEN",
+      "red": "89"
+    },
+    {
+      "blue": "91",
+      "green": "215",
+      "label": "GREEN",
+      "red": "82"
+    },
+    {
+      "blue": "194",
+      "green": "164",
+      "label": "BLUE",
+      "red": "6"
+    },
+    {
+      "blue": "230",
+      "green": "13",
+      "label": "VIOLET",
+      "red": "244"
+    },
+    {
+      "blue": "14",
+      "green": "179",
+      "label": "ORANGE",
+      "red": "210"
+    },
+    {
+      "blue": "59",
+      "green": "240",
+      "label": "YELLOW",
+      "red": "223"
+    },
+    {
+      "blue": "131",
+      "green": "59",
+      "label": "VIOLET",
+      "red": "83"
+    },
+    {
+      "blue": "80",
+      "green": "95",
+      "label": "GREEN",
+      "red": "35"
+    },
+    {
+      "blue": "96",
+      "green": "193",
+      "label": "ORANGE",
+      "red": "236"
+    },
+    {
+      "blue": "26",
+      "green": "184",
+      "label": "GREEN",
+      "red": "129"
+    },
+    {
+      "blue": "130",
+      "green": "208",
+      "label": "GREEN",
+      "red": "9"
+    },
+    {
+      "blue": "41",
+      "green": "188",
+      "label": "GREEN",
+      "red": "97"
+    },
+    {
+      "blue": "135",
+      "green": "121",
+      "label": "BLUE",
+      "red": "51"
+    },
+    {
+      "blue": "145",
+      "green": "236",
+      "label": "YELLOW",
+      "red": "237"
+    },
+    {
+      "blue": "145",
+      "green": "146",
+      "label": "VIOLET",
+      "red": "188"
+    },
+    {
+      "blue": "215",
+      "green": "251",
+      "label": "GREEN",
+      "red": "216"
+    },
+    {
+      "blue": "49",
+      "green": "27",
+      "label": "RED",
+      "red": "64"
+    },
+    {
+      "blue": "133",
+      "green": "77",
+      "label": "INDIGO",
+      "red": "50"
+    },
+    {
+      "blue": "146",
+      "green": "232",
+      "label": "YELLOW",
+      "red": "223"
+    },
+    {
+      "blue": "227",
+      "green": "87",
+      "label": "VIOLET",
+      "red": "199"
+    },
+    {
+      "blue": "77",
+      "green": "177",
+      "label": "GREEN",
+      "red": "150"
+    },
+    {
+      "blue": "45",
+      "green": "51",
+      "label": "RED",
+      "red": "98"
+    },
+    {
+      "blue": "96",
+      "green": "59",
+      "label": "INDIGO",
+      "red": "64"
+    },
+    {
+      "blue": "53",
+      "green": "97",
+      "label": "GREEN",
+      "red": "0"
+    },
+    {
+      "blue": "210",
+      "green": "176",
+      "label": "RED",
+      "red": "226"
+    },
+    {
+      "blue": "225",
+      "green": "226",
+      "label": "BLUE",
+      "red": "67"
+    },
+    {
+      "blue": "14",
+      "green": "45",
+      "label": "RED",
+      "red": "233"
+    },
+    {
+      "blue": "145",
+      "green": "7",
+      "label": "VIOLET",
+      "red": "119"
+    },
+    {
+      "blue": "36",
+      "green": "73",
+      "label": "RED",
+      "red": "206"
+    },
+    {
+      "blue": "89",
+      "green": "49",
+      "label": "INDIGO",
+      "red": "34"
+    },
+    {
+      "blue": "85",
+      "green": "58",
+      "label": "RED",
+      "red": "188"
+    },
+    {
+      "blue": "63",
+      "green": "108",
+      "label": "ORANGE",
+      "red": "246"
+    },
+    {
+      "blue": "154",
+      "green": "244",
+      "label": "GREEN",
+      "red": "208"
+    },
+    {
+      "blue": "27",
+      "green": "201",
+      "label": "YELLOW",
+      "red": "228"
+    },
+    {
+      "blue": "6",
+      "green": "203",
+      "label": "YELLOW",
+      "red": "221"
+    },
+    {
+      "blue": "106",
+      "green": "26",
+      "label": "RED",
+      "red": "192"
+    },
+    {
+      "blue": "248",
+      "green": "54",
+      "label": "VIOLET",
+      "red": "236"
+    },
+    {
+      "blue": "251",
+      "green": "158",
+      "label": "VIOLET",
+      "red": "215"
+    },
+    {
+      "blue": "73",
+      "green": "122",
+      "label": "ORANGE",
+      "red": "200"
+    },
+    {
+      "blue": "2",
+      "green": "157",
+      "label": "YELLOW",
+      "red": "169"
+    },
+    {
+      "blue": "124",
+      "green": "17",
+      "label": "VIOLET",
+      "red": "136"
+    },
+    {
+      "blue": "188",
+      "green": "255",
+      "label": "GREEN",
+      "red": "128"
+    },
+    {
+      "blue": "63",
+      "green": "132",
+      "label": "ORANGE",
+      "red": "227"
+    },
+    {
+      "blue": "70",
+      "green": "111",
+      "label": "GREEN",
+      "red": "85"
+    },
+    {
+      "blue": "13",
+      "green": "6",
+      "label": "RED",
+      "red": "168"
+    },
+    {
+      "blue": "175",
+      "green": "66",
+      "label": "VIOLET",
+      "red": "136"
+    },
+    {
+      "blue": "56",
+      "green": "3",
+      "label": "RED",
+      "red": "242"
+    },
+    {
+      "blue": "231",
+      "green": "150",
+      "label": "VIOLET",
+      "red": "230"
+    },
+    {
+      "blue": "164",
+      "green": "222",
+      "label": "GREEN",
+      "red": "214"
+    },
+    {
+      "blue": "53",
+      "green": "120",
+      "label": "GREEN",
+      "red": "120"
+    },
+    {
+      "blue": "139",
+      "green": "88",
+      "label": "VIOLET",
+      "red": "183"
+    },
+    {
+      "blue": "208",
+      "green": "206",
+      "label": "BLUE",
+      "red": "26"
+    },
+    {
+      "blue": "151",
+      "green": "96",
+      "label": "BLUE",
+      "red": "21"
+    },
+    {
+      "blue": "57",
+      "green": "50",
+      "label": "NONE",
+      "red": "1"
+    },
+    {
+      "blue": "199",
+      "green": "150",
+      "label": "BLUE",
+      "red": "3"
+    },
+    {
+      "blue": "228",
+      "green": "230",
+      "label": "BLUE",
+      "red": "170"
+    },
+    {
+      "blue": "202",
+      "green": "73",
+      "label": "VIOLET",
+      "red": "226"
+    },
+    {
+      "blue": "26",
+      "green": "50",
+      "label": "NONE",
+      "red": "55"
+    },
+    {
+      "blue": "113",
+      "green": "47",
+      "label": "RED",
+      "red": "191"
+    },
+    {
+      "blue": "231",
+      "green": "59",
+      "label": "INDIGO",
+      "red": "108"
+    },
+    {
+      "blue": "80",
+      "green": "129",
+      "label": "GREEN",
+      "red": "18"
+    },
+    {
+      "blue": "171",
+      "green": "138",
+      "label": "VIOLET",
+      "red": "163"
+    },
+    {
+      "blue": "109",
+      "green": "172",
+      "label": "GREEN",
+      "red": "126"
+    },
+    {
+      "blue": "54",
+      "green": "70",
+      "label": "GREEN",
+      "red": "33"
+    },
+    {
+      "blue": "68",
+      "green": "101",
+      "label": "GREEN",
+      "red": "16"
+    },
+    {
+      "blue": "216",
+      "green": "201",
+      "label": "BLUE",
+      "red": "10"
+    },
+    {
+      "blue": "7",
+      "green": "221",
+      "label": "YELLOW",
+      "red": "244"
+    },
+    {
+      "blue": "52",
+      "green": "235",
+      "label": "GREEN",
+      "red": "89"
+    },
+    {
+      "blue": "109",
+      "green": "126",
+      "label": "NONE",
+      "red": "142"
+    },
+    {
+      "blue": "219",
+      "green": "196",
+      "label": "BLUE",
+      "red": "172"
+    },
+    {
+      "blue": "5",
+      "green": "31",
+      "label": "NONE",
+      "red": "85"
+    },
+    {
+      "blue": "179",
+      "green": "229",
+      "label": "GREEN",
+      "red": "115"
+    },
+    {
+      "blue": "5",
+      "green": "40",
+      "label": "RED",
+      "red": "246"
+    },
+    {
+      "blue": "132",
+      "green": "123",
+      "label": "RED",
+      "red": "221"
+    },
+    {
+      "blue": "201",
+      "green": "39",
+      "label": "VIOLET",
+      "red": "157"
+    },
+    {
+      "blue": "235",
+      "green": "177",
+      "label": "VIOLET",
+      "red": "217"
+    },
+    {
+      "blue": "162",
+      "green": "119",
+      "label": "VIOLET",
+      "red": "221"
+    },
+    {
+      "blue": "199",
+      "green": "220",
+      "label": "GREEN",
+      "red": "215"
+    },
+    {
+      "blue": "14",
+      "green": "124",
+      "label": "ORANGE",
+      "red": "192"
+    },
+    {
+      "blue": "75",
+      "green": "125",
+      "label": "RED",
+      "red": "228"
+    },
+    {
+      "blue": "219",
+      "green": "0",
+      "label": "INDIGO",
+      "red": "17"
+    },
+    {
+      "blue": "3",
+      "green": "46",
+      "label": "NONE",
+      "red": "90"
+    },
+    {
+      "blue": "141",
+      "green": "92",
+      "label": "INDIGO",
+      "red": "22"
+    },
+    {
+      "blue": "183",
+      "green": "9",
+      "label": "VIOLET",
+      "red": "190"
+    },
+    {
+      "blue": "165",
+      "green": "91",
+      "label": "INDIGO",
+      "red": "60"
+    },
+    {
+      "blue": "54",
+      "green": "78",
+      "label": "GREEN",
+      "red": "83"
+    },
+    {
+      "blue": "238",
+      "green": "141",
+      "label": "BLUE",
+      "red": "60"
+    },
+    {
+      "blue": "180",
+      "green": "40",
+      "label": "VIOLET",
+      "red": "172"
+    },
+    {
+      "blue": "119",
+      "green": "107",
+      "label": "RED",
+      "red": "237"
+    },
+    {
+      "blue": "217",
+      "green": "169",
+      "label": "BLUE",
+      "red": "133"
+    },
+    {
+      "blue": "128",
+      "green": "228",
+      "label": "GREEN",
+      "red": "117"
+    },
+    {
+      "blue": "37",
+      "green": "241",
+      "label": "GREEN",
+      "red": "136"
+    },
+    {
+      "blue": "202",
+      "green": "43",
+      "label": "VIOLET",
+      "red": "146"
+    },
+    {
+      "blue": "159",
+      "green": "95",
+      "label": "INDIGO",
+      "red": "36"
+    },
+    {
+      "blue": "178",
+      "green": "64",
+      "label": "VIOLET",
+      "red": "168"
+    },
+    {
+      "blue": "223",
+      "green": "144",
+      "label": "INDIGO",
+      "red": "10"
+    },
+    {
+      "blue": "36",
+      "green": "111",
+      "label": "NONE",
+      "red": "123"
+    },
+    {
+      "blue": "254",
+      "green": "20",
+      "label": "INDIGO",
+      "red": "108"
+    },
+    {
+      "blue": "64",
+      "green": "144",
+      "label": "GREEN",
+      "red": "64"
+    },
+    {
+      "blue": "62",
+      "green": "118",
+      "label": "ORANGE",
+      "red": "212"
+    },
+    {
+      "blue": "115",
+      "green": "245",
+      "label": "GREEN",
+      "red": "189"
+    },
+    {
+      "blue": "146",
+      "green": "140",
+      "label": "RED",
+      "red": "242"
+    },
+    {
+      "blue": "203",
+      "green": "130",
+      "label": "VIOLET",
+      "red": "191"
+    },
+    {
+      "blue": "19",
+      "green": "86",
+      "label": "RED",
+      "red": "212"
+    },
+    {
+      "blue": "123",
+      "green": "221",
+      "label": "YELLOW",
+      "red": "245"
+    },
+    {
+      "blue": "199",
+      "green": "188",
+      "label": "RED",
+      "red": "233"
+    },
+    {
+      "blue": "180",
+      "green": "65",
+      "label": "VIOLET",
+      "red": "118"
+    },
+    {
+      "blue": "48",
+      "green": "96",
+      "label": "RED",
+      "red": "197"
+    },
+    {
+      "blue": "217",
+      "green": "5",
+      "label": "INDIGO",
+      "red": "25"
+    },
+    {
+      "blue": "15",
+      "green": "211",
+      "label": "GREEN",
+      "red": "183"
+    },
+    {
+      "blue": "217",
+      "green": "93",
+      "label": "RED",
+      "red": "224"
+    },
+    {
+      "blue": "223",
+      "green": "41",
+      "label": "VIOLET",
+      "red": "175"
+    },
+    {
+      "blue": "1",
+      "green": "189",
+      "label": "GREEN",
+      "red": "77"
+    },
+    {
+      "blue": "53",
+      "green": "218",
+      "label": "GREEN",
+      "red": "142"
+    },
+    {
+      "blue": "16",
+      "green": "0",
+      "label": "RED",
+      "red": "250"
+    },
+    {
+      "blue": "182",
+      "green": "63",
+      "label": "VIOLET",
+      "red": "198"
+    },
+    {
+      "blue": "171",
+      "green": "43",
+      "label": "VIOLET",
+      "red": "147"
+    },
+    {
+      "blue": "46",
+      "green": "227",
+      "label": "GREEN",
+      "red": "162"
+    },
+    {
+      "blue": "18",
+      "green": "181",
+      "label": "GREEN",
+      "red": "1"
+    },
+    {
+      "blue": "68",
+      "green": "161",
+      "label": "ORANGE",
+      "red": "245"
+    },
+    {
+      "blue": "64",
+      "green": "8",
+      "label": "RED",
+      "red": "120"
+    },
+    {
+      "blue": "230",
+      "green": "25",
+      "label": "INDIGO",
+      "red": "73"
+    },
+    {
+      "blue": "58",
+      "green": "217",
+      "label": "YELLOW",
+      "red": "238"
+    },
+    {
+      "blue": "66",
+      "green": "167",
+      "label": "GREEN",
+      "red": "138"
+    },
+    {
+      "blue": "180",
+      "green": "88",
+      "label": "RED",
+      "red": "239"
+    },
+    {
+      "blue": "44",
+      "green": "77",
+      "label": "NONE",
+      "red": "126"
+    },
+    {
+      "blue": "170",
+      "green": "85",
+      "label": "INDIGO",
+      "red": "7"
+    },
+    {
+      "blue": "233",
+      "green": "143",
+      "label": "VIOLET",
+      "red": "198"
+    },
+    {
+      "blue": "156",
+      "green": "99",
+      "label": "RED",
+      "red": "220"
+    },
+    {
+      "blue": "177",
+      "green": "147",
+      "label": "BLUE",
+      "red": "37"
+    },
+    {
+      "blue": "172",
+      "green": "44",
+      "label": "INDIGO",
+      "red": "51"
+    },
+    {
+      "blue": "214",
+      "green": "225",
+      "label": "BLUE",
+      "red": "32"
+    },
+    {
+      "blue": "44",
+      "green": "12",
+      "label": "RED",
+      "red": "239"
+    },
+    {
+      "blue": "32",
+      "green": "0",
+      "label": "RED",
+      "red": "143"
+    },
+    {
+      "blue": "171",
+      "green": "200",
+      "label": "NONE",
+      "red": "224"
+    },
+    {
+      "blue": "59",
+      "green": "253",
+      "label": "GREEN",
+      "red": "40"
+    },
+    {
+      "blue": "28",
+      "green": "170",
+      "label": "GREEN",
+      "red": "26"
+    },
+    {
+      "blue": "105",
+      "green": "45",
+      "label": "RED",
+      "red": "196"
+    },
+    {
+      "blue": "5",
+      "green": "148",
+      "label": "GREEN",
+      "red": "122"
+    },
+    {
+      "blue": "62",
+      "green": "142",
+      "label": "GREEN",
+      "red": "49"
+    },
+    {
+      "blue": "18",
+      "green": "65",
+      "label": "GREEN",
+      "red": "71"
+    },
+    {
+      "blue": "97",
+      "green": "247",
+      "label": "YELLOW",
+      "red": "230"
+    },
+    {
+      "blue": "61",
+      "green": "96",
+      "label": "GREEN",
+      "red": "84"
+    },
+    {
+      "blue": "84",
+      "green": "183",
+      "label": "GREEN",
+      "red": "175"
+    },
+    {
+      "blue": "19",
+      "green": "122",
+      "label": "ORANGE",
+      "red": "175"
+    },
+    {
+      "blue": "163",
+      "green": "247",
+      "label": "GREEN",
+      "red": "191"
+    },
+    {
+      "blue": "75",
+      "green": "141",
+      "label": "GREEN",
+      "red": "32"
+    },
+    {
+      "blue": "166",
+      "green": "93",
+      "label": "INDIGO",
+      "red": "54"
+    },
+    {
+      "blue": "64",
+      "green": "22",
+      "label": "RED",
+      "red": "250"
+    },
+    {
+      "blue": "146",
+      "green": "83",
+      "label": "INDIGO",
+      "red": "82"
+    },
+    {
+      "blue": "60",
+      "green": "136",
+      "label": "GREEN",
+      "red": "103"
+    },
+    {
+      "blue": "136",
+      "green": "189",
+      "label": "YELLOW",
+      "red": "209"
+    },
+    {
+      "blue": "157",
+      "green": "50",
+      "label": "RED",
+      "red": "230"
+    },
+    {
+      "blue": "76",
+      "green": "215",
+      "label": "GREEN",
+      "red": "108"
+    },
+    {
+      "blue": "80",
+      "green": "243",
+      "label": "GREEN",
+      "red": "8"
+    },
+    {
+      "blue": "246",
+      "green": "25",
+      "label": "VIOLET",
+      "red": "228"
+    },
+    {
+      "blue": "176",
+      "green": "229",
+      "label": "GREEN",
+      "red": "22"
+    },
+    {
+      "blue": "183",
+      "green": "246",
+      "label": "GREEN",
+      "red": "103"
+    },
+    {
+      "blue": "207",
+      "green": "102",
+      "label": "INDIGO",
+      "red": "67"
+    },
+    {
+      "blue": "126",
+      "green": "8",
+      "label": "INDIGO",
+      "red": "4"
+    },
+    {
+      "blue": "50",
+      "green": "0",
+      "label": "VIOLET",
+      "red": "43"
+    },
+    {
+      "blue": "9",
+      "green": "233",
+      "label": "GREEN",
+      "red": "141"
+    },
+    {
+      "blue": "237",
+      "green": "61",
+      "label": "VIOLET",
+      "red": "126"
+    },
+    {
+      "blue": "193",
+      "green": "187",
+      "label": "NONE",
+      "red": "175"
+    },
+    {
+      "blue": "214",
+      "green": "159",
+      "label": "RED",
+      "red": "250"
+    },
+    {
+      "blue": "242",
+      "green": "204",
+      "label": "BLUE",
+      "red": "116"
+    },
+    {
+      "blue": "120",
+      "green": "252",
+      "label": "GREEN",
+      "red": "11"
+    },
+    {
+      "blue": "66",
+      "green": "108",
+      "label": "GREEN",
+      "red": "95"
+    },
+    {
+      "blue": "162",
+      "green": "42",
+      "label": "BLUE",
+      "red": "18"
+    },
+    {
+      "blue": "51",
+      "green": "128",
+      "label": "GREEN",
+      "red": "85"
+    },
+    {
+      "blue": "3",
+      "green": "159",
+      "label": "GREEN",
+      "red": "32"
+    },
+    {
+      "blue": "25",
+      "green": "128",
+      "label": "YELLOW",
+      "red": "137"
+    },
+    {
+      "blue": "179",
+      "green": "51",
+      "label": "VIOLET",
+      "red": "156"
+    },
+    {
+      "blue": "203",
+      "green": "58",
+      "label": "INDIGO",
+      "red": "12"
+    },
+    {
+      "blue": "177",
+      "green": "55",
+      "label": "INDIGO",
+      "red": "24"
+    },
+    {
+      "blue": "25",
+      "green": "59",
+      "label": "RED",
+      "red": "133"
+    },
+    {
+      "blue": "207",
+      "green": "246",
+      "label": "BLUE",
+      "red": "2"
+    },
+    {
+      "blue": "51",
+      "green": "165",
+      "label": "GREEN",
+      "red": "49"
+    },
+    {
+      "blue": "139",
+      "green": "233",
+      "label": "GREEN",
+      "red": "33"
+    },
+    {
+      "blue": "78",
+      "green": "220",
+      "label": "YELLOW",
+      "red": "237"
+    },
+    {
+      "blue": "51",
+      "green": "8",
+      "label": "RED",
+      "red": "233"
+    },
+    {
+      "blue": "56",
+      "green": "66",
+      "label": "RED",
+      "red": "214"
+    },
+    {
+      "blue": "58",
+      "green": "158",
+      "label": "GREEN",
+      "red": "29"
+    },
+    {
+      "blue": "88",
+      "green": "81",
+      "label": "NONE",
+      "red": "70"
+    },
+    {
+      "blue": "105",
+      "green": "34",
+      "label": "VIOLET",
+      "red": "130"
+    },
+    {
+      "blue": "65",
+      "green": "36",
+      "label": "RED",
+      "red": "222"
+    },
+    {
+      "blue": "30",
+      "green": "133",
+      "label": "YELLOW",
+      "red": "159"
+    },
+    {
+      "blue": "21",
+      "green": "247",
+      "label": "YELLOW",
+      "red": "217"
+    },
+    {
+      "blue": "54",
+      "green": "79",
+      "label": "GREEN",
+      "red": "5"
+    },
+    {
+      "blue": "189",
+      "green": "28",
+      "label": "INDIGO",
+      "red": "59"
+    },
+    {
+      "blue": "103",
+      "green": "79",
+      "label": "VIOLET",
+      "red": "148"
+    },
+    {
+      "blue": "37",
+      "green": "20",
+      "label": "RED",
+      "red": "183"
+    },
+    {
+      "blue": "50",
+      "green": "254",
+      "label": "GREEN",
+      "red": "44"
+    },
+    {
+      "blue": "240",
+      "green": "23",
+      "label": "VIOLET",
+      "red": "180"
+    },
+    {
+      "blue": "118",
+      "green": "75",
+      "label": "RED",
+      "red": "165"
+    },
+    {
+      "blue": "181",
+      "green": "10",
+      "label": "VIOLET",
+      "red": "202"
+    },
+    {
+      "blue": "3",
+      "green": "163",
+      "label": "GREEN",
+      "red": "128"
+    },
+    {
+      "blue": "181",
+      "green": "44",
+      "label": "VIOLET",
+      "red": "144"
+    },
+    {
+      "blue": "234",
+      "green": "77",
+      "label": "INDIGO",
+      "red": "90"
+    },
+    {
+      "blue": "232",
+      "green": "119",
+      "label": "VIOLET",
+      "red": "164"
+    },
+    {
+      "blue": "110",
+      "green": "156",
+      "label": "ORANGE",
+      "red": "208"
+    },
+    {
+      "blue": "65",
+      "green": "42",
+      "label": "RED",
+      "red": "137"
+    },
+    {
+      "blue": "87",
+      "green": "160",
+      "label": "GREEN",
+      "red": "138"
+    },
+    {
+      "blue": "187",
+      "green": "134",
+      "label": "VIOLET",
+      "red": "187"
+    },
+    {
+      "blue": "118",
+      "green": "240",
+      "label": "GREEN",
+      "red": "138"
+    },
+    {
+      "blue": "82",
+      "green": "125",
+      "label": "NONE",
+      "red": "137"
+    },
+    {
+      "blue": "117",
+      "green": "229",
+      "label": "GREEN",
+      "red": "82"
+    },
+    {
+      "blue": "217",
+      "green": "99",
+      "label": "VIOLET",
+      "red": "177"
+    },
+    {
+      "blue": "98",
+      "green": "198",
+      "label": "GREEN",
+      "red": "135"
+    },
+    {
+      "blue": "69",
+      "green": "238",
+      "label": "GREEN",
+      "red": "99"
+    },
+    {
+      "blue": "209",
+      "green": "234",
+      "label": "GREEN",
+      "red": "211"
+    },
+    {
+      "blue": "48",
+      "green": "137",
+      "label": "GREEN",
+      "red": "87"
+    },
+    {
+      "blue": "215",
+      "green": "9",
+      "label": "INDIGO",
+      "red": "49"
+    },
+    {
+      "blue": "118",
+      "green": "70",
+      "label": "RED",
+      "red": "211"
+    },
+    {
+      "blue": "214",
+      "green": "158",
+      "label": "BLUE",
+      "red": "140"
+    },
+    {
+      "blue": "209",
+      "green": "226",
+      "label": "GREEN",
+      "red": "164"
+    },
+    {
+      "blue": "238",
+      "green": "246",
+      "label": "BLUE",
+      "red": "40"
+    },
+    {
+      "blue": "83",
+      "green": "25",
+      "label": "RED",
+      "red": "234"
+    },
+    {
+      "blue": "28",
+      "green": "244",
+      "label": "GREEN",
+      "red": "165"
+    },
+    {
+      "blue": "162",
+      "green": "71",
+      "label": "RED",
+      "red": "240"
+    },
+    {
+      "blue": "189",
+      "green": "51",
+      "label": "INDIGO",
+      "red": "70"
+    },
+    {
+      "blue": "39",
+      "green": "195",
+      "label": "YELLOW",
+      "red": "213"
+    },
+    {
+      "blue": "210",
+      "green": "59",
+      "label": "VIOLET",
+      "red": "216"
+    },
+    {
+      "blue": "184",
+      "green": "27",
+      "label": "VIOLET",
+      "red": "223"
+    },
+    {
+      "blue": "240",
+      "green": "148",
+      "label": "INDIGO",
+      "red": "162"
+    },
+    {
+      "blue": "135",
+      "green": "102",
+      "label": "VIOLET",
+      "red": "160"
+    },
+    {
+      "blue": "54",
+      "green": "51",
+      "label": "RED",
+      "red": "155"
+    },
+    {
+      "blue": "201",
+      "green": "144",
+      "label": "BLUE",
+      "red": "46"
+    },
+    {
+      "blue": "60",
+      "green": "218",
+      "label": "GREEN",
+      "red": "124"
+    },
+    {
+      "blue": "216",
+      "green": "187",
+      "label": "BLUE",
+      "red": "105"
+    },
+    {
+      "blue": "19",
+      "green": "55",
+      "label": "RED",
+      "red": "123"
+    },
+    {
+      "blue": "134",
+      "green": "62",
+      "label": "VIOLET",
+      "red": "105"
+    },
+    {
+      "blue": "62",
+      "green": "147",
+      "label": "ORANGE",
+      "red": "229"
+    },
+    {
+      "blue": "103",
+      "green": "158",
+      "label": "ORANGE",
+      "red": "255"
+    },
+    {
+      "blue": "180",
+      "green": "161",
+      "label": "BLUE",
+      "red": "144"
+    },
+    {
+      "blue": "116",
+      "green": "204",
+      "label": "YELLOW",
+      "red": "238"
+    },
+    {
+      "blue": "226",
+      "green": "165",
+      "label": "VIOLET",
+      "red": "196"
+    },
+    {
+      "blue": "254",
+      "green": "145",
+      "label": "BLUE",
+      "red": "11"
+    },
+    {
+      "blue": "138",
+      "green": "104",
+      "label": "VIOLET",
+      "red": "166"
+    },
+    {
+      "blue": "168",
+      "green": "128",
+      "label": "VIOLET",
+      "red": "155"
+    },
+    {
+      "blue": "63",
+      "green": "16",
+      "label": "NONE",
+      "red": "6"
+    },
+    {
+      "blue": "217",
+      "green": "104",
+      "label": "INDIGO",
+      "red": "22"
+    },
+    {
+      "blue": "48",
+      "green": "175",
+      "label": "YELLOW",
+      "red": "246"
+    },
+    {
+      "blue": "120",
+      "green": "140",
+      "label": "ORANGE",
+      "red": "182"
+    },
+    {
+      "blue": "15",
+      "green": "26",
+      "label": "RED",
+      "red": "216"
+    },
+    {
+      "blue": "36",
+      "green": "51",
+      "label": "RED",
+      "red": "134"
+    },
+    {
+      "blue": "173",
+      "green": "167",
+      "label": "BLUE",
+      "red": "29"
+    },
+    {
+      "blue": "82",
+      "green": "175",
+      "label": "GREEN",
+      "red": "133"
+    },
+    {
+      "blue": "208",
+      "green": "128",
+      "label": "VIOLET",
+      "red": "213"
+    },
+    {
+      "blue": "189",
+      "green": "214",
+      "label": "YELLOW",
+      "red": "230"
+    },
+    {
+      "blue": "113",
+      "green": "10",
+      "label": "VIOLET",
+      "red": "149"
+    },
+    {
+      "blue": "109",
+      "green": "145",
+      "label": "GREEN",
+      "red": "75"
+    },
+    {
+      "blue": "11",
+      "green": "70",
+      "label": "GREEN",
+      "red": "30"
+    },
+    {
+      "blue": "3",
+      "green": "216",
+      "label": "GREEN",
+      "red": "2"
+    },
+    {
+      "blue": "134",
+      "green": "182",
+      "label": "YELLOW",
+      "red": "197"
+    },
+    {
+      "blue": "93",
+      "green": "240",
+      "label": "GREEN",
+      "red": "40"
+    },
+    {
+      "blue": "210",
+      "green": "148",
+      "label": "RED",
+      "red": "252"
+    },
+    {
+      "blue": "236",
+      "green": "201",
+      "label": "BLUE",
+      "red": "119"
+    },
+    {
+      "blue": "39",
+      "green": "98",
+      "label": "GREEN",
+      "red": "19"
+    },
+    {
+      "blue": "232",
+      "green": "1",
+      "label": "VIOLET",
+      "red": "214"
+    },
+    {
+      "blue": "18",
+      "green": "71",
+      "label": "GREEN",
+      "red": "48"
+    },
+    {
+      "blue": "107",
+      "green": "235",
+      "label": "GREEN",
+      "red": "209"
+    },
+    {
+      "blue": "217",
+      "green": "159",
+      "label": "VIOLET",
+      "red": "172"
+    },
+    {
+      "blue": "216",
+      "green": "80",
+      "label": "INDIGO",
+      "red": "40"
+    },
+    {
+      "blue": "229",
+      "green": "9",
+      "label": "VIOLET",
+      "red": "135"
+    },
+    {
+      "blue": "177",
+      "green": "242",
+      "label": "GREEN",
+      "red": "22"
+    },
+    {
+      "blue": "232",
+      "green": "150",
+      "label": "BLUE",
+      "red": "117"
+    },
+    {
+      "blue": "59",
+      "green": "183",
+      "label": "GREEN",
+      "red": "6"
+    },
+    {
+      "blue": "33",
+      "green": "157",
+      "label": "ORANGE",
+      "red": "247"
+    },
+    {
+      "blue": "146",
+      "green": "71",
+      "label": "VIOLET",
+      "red": "119"
+    },
+    {
+      "blue": "76",
+      "green": "29",
+      "label": "RED",
+      "red": "189"
+    },
+    {
+      "blue": "64",
+      "green": "218",
+      "label": "GREEN",
+      "red": "104"
+    },
+    {
+      "blue": "150",
+      "green": "168",
+      "label": "GREEN",
+      "red": "56"
+    },
+    {
+      "blue": "253",
+      "green": "85",
+      "label": "INDIGO",
+      "red": "129"
+    },
+    {
+      "blue": "131",
+      "green": "143",
+      "label": "GREEN",
+      "red": "71"
+    },
+    {
+      "blue": "243",
+      "green": "107",
+      "label": "INDIGO",
+      "red": "59"
+    },
+    {
+      "blue": "246",
+      "green": "40",
+      "label": "VIOLET",
+      "red": "178"
+    },
+    {
+      "blue": "127",
+      "green": "153",
+      "label": "GREEN",
+      "red": "70"
+    },
+    {
+      "blue": "21",
+      "green": "90",
+      "label": "ORANGE",
+      "red": "121"
+    },
+    {
+      "blue": "14",
+      "green": "51",
+      "label": "GREEN",
+      "red": "43"
+    },
+    {
+      "blue": "114",
+      "green": "201",
+      "label": "YELLOW",
+      "red": "243"
+    },
+    {
+      "blue": "234",
+      "green": "81",
+      "label": "INDIGO",
+      "red": "56"
+    },
+    {
+      "blue": "172",
+      "green": "229",
+      "label": "GREEN",
+      "red": "177"
+    },
+    {
+      "blue": "194",
+      "green": "45",
+      "label": "VIOLET",
+      "red": "185"
+    },
+    {
+      "blue": "170",
+      "green": "140",
+      "label": "BLUE",
+      "red": "22"
+    },
+    {
+      "blue": "239",
+      "green": "66",
+      "label": "VIOLET",
+      "red": "216"
+    },
+    {
+      "blue": "100",
+      "green": "117",
+      "label": "GREEN",
+      "red": "59"
+    },
+    {
+      "blue": "91",
+      "green": "178",
+      "label": "GREEN",
+      "red": "112"
+    },
+    {
+      "blue": "54",
+      "green": "182",
+      "label": "GREEN",
+      "red": "73"
+    },
+    {
+      "blue": "209",
+      "green": "234",
+      "label": "GREEN",
+      "red": "141"
+    },
+    {
+      "blue": "221",
+      "green": "61",
+      "label": "VIOLET",
+      "red": "198"
+    },
+    {
+      "blue": "40",
+      "green": "116",
+      "label": "GREEN",
+      "red": "54"
+    },
+    {
+      "blue": "57",
+      "green": "79",
+      "label": "GREEN",
+      "red": "20"
+    },
+    {
+      "blue": "169",
+      "green": "175",
+      "label": "RED",
+      "red": "241"
+    },
+    {
+      "blue": "239",
+      "green": "126",
+      "label": "BLUE",
+      "red": "134"
+    },
+    {
+      "blue": "183",
+      "green": "155",
+      "label": "BLUE",
+      "red": "140"
+    },
+    {
+      "blue": "241",
+      "green": "156",
+      "label": "VIOLET",
+      "red": "215"
+    },
+    {
+      "blue": "95",
+      "green": "21",
+      "label": "RED",
+      "red": "233"
+    },
+    {
+      "blue": "33",
+      "green": "210",
+      "label": "GREEN",
+      "red": "21"
+    },
+    {
+      "blue": "90",
+      "green": "194",
+      "label": "ORANGE",
+      "red": "213"
+    },
+    {
+      "blue": "123",
+      "green": "252",
+      "label": "GREEN",
+      "red": "27"
+    },
+    {
+      "blue": "243",
+      "green": "1",
+      "label": "INDIGO",
+      "red": "31"
+    },
+    {
+      "blue": "83",
+      "green": "52",
+      "label": "INDIGO",
+      "red": "27"
+    },
+    {
+      "blue": "224",
+      "green": "191",
+      "label": "BLUE",
+      "red": "38"
+    },
+    {
+      "blue": "62",
+      "green": "9",
+      "label": "RED",
+      "red": "211"
+    },
+    {
+      "blue": "29",
+      "green": "128",
+      "label": "ORANGE",
+      "red": "206"
+    },
+    {
+      "blue": "122",
+      "green": "106",
+      "label": "RED",
+      "red": "164"
+    },
+    {
+      "blue": "97",
+      "green": "226",
+      "label": "GREEN",
+      "red": "122"
+    },
+    {
+      "blue": "193",
+      "green": "107",
+      "label": "INDIGO",
+      "red": "103"
+    },
+    {
+      "blue": "75",
+      "green": "224",
+      "label": "GREEN",
+      "red": "95"
+    },
+    {
+      "blue": "102",
+      "green": "98",
+      "label": "BLUE",
+      "red": "12"
+    },
+    {
+      "blue": "152",
+      "green": "175",
+      "label": "GREEN",
+      "red": "92"
+    },
+    {
+      "blue": "132",
+      "green": "231",
+      "label": "GREEN",
+      "red": "82"
+    },
+    {
+      "blue": "76",
+      "green": "113",
+      "label": "GREEN",
+      "red": "6"
+    },
+    {
+      "blue": "89",
+      "green": "145",
+      "label": "GREEN",
+      "red": "22"
+    },
+    {
+      "blue": "112",
+      "green": "237",
+      "label": "GREEN",
+      "red": "196"
+    },
+    {
+      "blue": "108",
+      "green": "80",
+      "label": "VIOLET",
+      "red": "102"
+    },
+    {
+      "blue": "145",
+      "green": "70",
+      "label": "INDIGO",
+      "red": "15"
+    },
+    {
+      "blue": "193",
+      "green": "82",
+      "label": "INDIGO",
+      "red": "37"
+    },
+    {
+      "blue": "207",
+      "green": "59",
+      "label": "INDIGO",
+      "red": "14"
+    },
+    {
+      "blue": "37",
+      "green": "133",
+      "label": "ORANGE",
+      "red": "205"
+    },
+    {
+      "blue": "111",
+      "green": "229",
+      "label": "GREEN",
+      "red": "211"
+    },
+    {
+      "blue": "225",
+      "green": "208",
+      "label": "BLUE",
+      "red": "125"
+    },
+    {
+      "blue": "14",
+      "green": "26",
+      "label": "RED",
+      "red": "130"
+    },
+    {
+      "blue": "54",
+      "green": "177",
+      "label": "GREEN",
+      "red": "78"
+    },
+    {
+      "blue": "170",
+      "green": "180",
+      "label": "BLUE",
+      "red": "64"
+    },
+    {
+      "blue": "138",
+      "green": "141",
+      "label": "BLUE",
+      "red": "108"
+    },
+    {
+      "blue": "64",
+      "green": "126",
+      "label": "ORANGE",
+      "red": "187"
+    },
+    {
+      "blue": "28",
+      "green": "0",
+      "label": "RED",
+      "red": "94"
+    },
+    {
+      "blue": "181",
+      "green": "117",
+      "label": "INDIGO",
+      "red": "10"
+    },
+    {
+      "blue": "213",
+      "green": "71",
+      "label": "INDIGO",
+      "red": "25"
+    },
+    {
+      "blue": "188",
+      "green": "150",
+      "label": "BLUE",
+      "red": "113"
+    },
+    {
+      "blue": "212",
+      "green": "188",
+      "label": "BLUE",
+      "red": "81"
+    },
+    {
+      "blue": "196",
+      "green": "85",
+      "label": "VIOLET",
+      "red": "142"
+    },
+    {
+      "blue": "233",
+      "green": "173",
+      "label": "VIOLET",
+      "red": "212"
+    },
+    {
+      "blue": "30",
+      "green": "106",
+      "label": "ORANGE",
+      "red": "244"
+    },
+    {
+      "blue": "249",
+      "green": "252",
+      "label": "BLUE",
+      "red": "186"
+    },
+    {
+      "blue": "99",
+      "green": "116",
+      "label": "GREEN",
+      "red": "23"
+    },
+    {
+      "blue": "213",
+      "green": "55",
+      "label": "INDIGO",
+      "red": "99"
+    },
+    {
+      "blue": "214",
+      "green": "54",
+      "label": "INDIGO",
+      "red": "23"
+    },
+    {
+      "blue": "49",
+      "green": "212",
+      "label": "GREEN",
+      "red": "180"
+    },
+    {
+      "blue": "231",
+      "green": "126",
+      "label": "INDIGO",
+      "red": "143"
+    },
+    {
+      "blue": "46",
+      "green": "121",
+      "label": "GREEN",
+      "red": "107"
+    },
+    {
+      "blue": "202",
+      "green": "180",
+      "label": "BLUE",
+      "red": "186"
+    },
+    {
+      "blue": "3",
+      "green": "146",
+      "label": "ORANGE",
+      "red": "185"
+    },
+    {
+      "blue": "24",
+      "green": "243",
+      "label": "GREEN",
+      "red": "165"
+    },
+    {
+      "blue": "227",
+      "green": "231",
+      "label": "RED",
+      "red": "243"
+    },
+    {
+      "blue": "76",
+      "green": "44",
+      "label": "RED",
+      "red": "152"
+    },
+    {
+      "blue": "157",
+      "green": "187",
+      "label": "RED",
+      "red": "242"
+    },
+    {
+      "blue": "148",
+      "green": "157",
+      "label": "GREEN",
+      "red": "37"
+    },
+    {
+      "blue": "204",
+      "green": "51",
+      "label": "INDIGO",
+      "red": "39"
+    },
+    {
+      "blue": "89",
+      "green": "140",
+      "label": "GREEN",
+      "red": "126"
+    },
+    {
+      "blue": "90",
+      "green": "62",
+      "label": "NONE",
+      "red": "6"
+    },
+    {
+      "blue": "253",
+      "green": "50",
+      "label": "VIOLET",
+      "red": "251"
+    },
+    {
+      "blue": "105",
+      "green": "0",
+      "label": "VIOLET",
+      "red": "104"
+    },
+    {
+      "blue": "185",
+      "green": "55",
+      "label": "INDIGO",
+      "red": "38"
+    },
+    {
+      "blue": "68",
+      "green": "44",
+      "label": "RED",
+      "red": "249"
+    },
+    {
+      "blue": "89",
+      "green": "219",
+      "label": "GREEN",
+      "red": "24"
+    },
+    {
+      "blue": "122",
+      "green": "164",
+      "label": "ORANGE",
+      "red": "247"
+    },
+    {
+      "blue": "191",
+      "green": "217",
+      "label": "ORANGE",
+      "red": "242"
+    },
+    {
+      "blue": "111",
+      "green": "240",
+      "label": "GREEN",
+      "red": "135"
+    },
+    {
+      "blue": "229",
+      "green": "205",
+      "label": "BLUE",
+      "red": "179"
+    },
+    {
+      "blue": "11",
+      "green": "205",
+      "label": "GREEN",
+      "red": "31"
+    },
+    {
+      "blue": "162",
+      "green": "203",
+      "label": "GREEN",
+      "red": "180"
+    },
+    {
+      "blue": "195",
+      "green": "219",
+      "label": "GREEN",
+      "red": "89"
+    },
+    {
+      "blue": "191",
+      "green": "236",
+      "label": "BLUE",
+      "red": "81"
+    },
+    {
+      "blue": "138",
+      "green": "219",
+      "label": "GREEN",
+      "red": "23"
+    },
+    {
+      "blue": "209",
+      "green": "112",
+      "label": "RED",
+      "red": "249"
+    },
+    {
+      "blue": "82",
+      "green": "66",
+      "label": "RED",
+      "red": "144"
+    },
+    {
+      "blue": "190",
+      "green": "174",
+      "label": "RED",
+      "red": "246"
+    },
+    {
+      "blue": "180",
+      "green": "8",
+      "label": "INDIGO",
+      "red": "42"
+    },
+    {
+      "blue": "252",
+      "green": "84",
+      "label": "INDIGO",
+      "red": "100"
+    },
+    {
+      "blue": "219",
+      "green": "75",
+      "label": "VIOLET",
+      "red": "127"
+    },
+    {
+      "blue": "226",
+      "green": "208",
+      "label": "BLUE",
+      "red": "91"
+    },
+    {
+      "blue": "101",
+      "green": "6",
+      "label": "INDIGO",
+      "red": "34"
+    },
+    {
+      "blue": "253",
+      "green": "79",
+      "label": "VIOLET",
+      "red": "229"
+    },
+    {
+      "blue": "155",
+      "green": "151",
+      "label": "GREEN",
+      "red": "104"
+    },
+    {
+      "blue": "173",
+      "green": "60",
+      "label": "INDIGO",
+      "red": "75"
+    },
+    {
+      "blue": "117",
+      "green": "239",
+      "label": "GREEN",
+      "red": "2"
+    },
+    {
+      "blue": "145",
+      "green": "198",
+      "label": "GREEN",
+      "red": "138"
+    },
+    {
+      "blue": "158",
+      "green": "190",
+      "label": "GREEN",
+      "red": "46"
+    },
+    {
+      "blue": "129",
+      "green": "70",
+      "label": "RED",
+      "red": "255"
+    },
+    {
+      "blue": "48",
+      "green": "156",
+      "label": "GREEN",
+      "red": "71"
+    },
+    {
+      "blue": "91",
+      "green": "8",
+      "label": "VIOLET",
+      "red": "121"
+    },
+    {
+      "blue": "110",
+      "green": "122",
+      "label": "RED",
+      "red": "168"
+    },
+    {
+      "blue": "27",
+      "green": "57",
+      "label": "GREEN",
+      "red": "44"
+    },
+    {
+      "blue": "81",
+      "green": "183",
+      "label": "GREEN",
+      "red": "110"
+    },
+    {
+      "blue": "203",
+      "green": "170",
+      "label": "BLUE",
+      "red": "19"
+    },
+    {
+      "blue": "224",
+      "green": "30",
+      "label": "VIOLET",
+      "red": "197"
+    },
+    {
+      "blue": "120",
+      "green": "147",
+      "label": "GREEN",
+      "red": "147"
+    },
+    {
+      "blue": "85",
+      "green": "106",
+      "label": "RED",
+      "red": "213"
+    },
+    {
+      "blue": "237",
+      "green": "87",
+      "label": "INDIGO",
+      "red": "75"
+    },
+    {
+      "blue": "39",
+      "green": "76",
+      "label": "GREEN",
+      "red": "16"
+    },
+    {
+      "blue": "38",
+      "green": "98",
+      "label": "GREEN",
+      "red": "101"
+    },
+    {
+      "blue": "253",
+      "green": "26",
+      "label": "INDIGO",
+      "red": "57"
+    },
+    {
+      "blue": "196",
+      "green": "71",
+      "label": "INDIGO",
+      "red": "73"
+    },
+    {
+      "blue": "69",
+      "green": "178",
+      "label": "GREEN",
+      "red": "31"
+    },
+    {
+      "blue": "149",
+      "green": "3",
+      "label": "VIOLET",
+      "red": "143"
+    },
+    {
+      "blue": "70",
+      "green": "75",
+      "label": "NONE",
+      "red": "74"
+    },
+    {
+      "blue": "160",
+      "green": "80",
+      "label": "VIOLET",
+      "red": "138"
+    },
+    {
+      "blue": "108",
+      "green": "132",
+      "label": "GREEN",
+      "red": "64"
+    },
+    {
+      "blue": "222",
+      "green": "117",
+      "label": "VIOLET",
+      "red": "154"
+    },
+    {
+      "blue": "221",
+      "green": "183",
+      "label": "BLUE",
+      "red": "139"
+    },
+    {
+      "blue": "91",
+      "green": "216",
+      "label": "GREEN",
+      "red": "175"
+    },
+    {
+      "blue": "198",
+      "green": "231",
+      "label": "GREEN",
+      "red": "198"
+    },
+    {
+      "blue": "199",
+      "green": "130",
+      "label": "BLUE",
+      "red": "81"
+    },
+    {
+      "blue": "80",
+      "green": "86",
+      "label": "RED",
+      "red": "241"
+    },
+    {
+      "blue": "121",
+      "green": "105",
+      "label": "RED",
+      "red": "232"
+    },
+    {
+      "blue": "222",
+      "green": "119",
+      "label": "INDIGO",
+      "red": "65"
+    },
+    {
+      "blue": "227",
+      "green": "206",
+      "label": "RED",
+      "red": "255"
+    },
+    {
+      "blue": "12",
+      "green": "49",
+      "label": "GREEN",
+      "red": "37"
+    },
+    {
+      "blue": "105",
+      "green": "234",
+      "label": "YELLOW",
+      "red": "251"
+    },
+    {
+      "blue": "201",
+      "green": "90",
+      "label": "INDIGO",
+      "red": "74"
+    },
+    {
+      "blue": "108",
+      "green": "119",
+      "label": "GREEN",
+      "red": "51"
+    },
+    {
+      "blue": "245",
+      "green": "68",
+      "label": "VIOLET",
+      "red": "247"
+    },
+    {
+      "blue": "203",
+      "green": "29",
+      "label": "VIOLET",
+      "red": "141"
+    },
+    {
+      "blue": "250",
+      "green": "100",
+      "label": "VIOLET",
+      "red": "191"
+    },
+    {
+      "blue": "11",
+      "green": "188",
+      "label": "YELLOW",
+      "red": "235"
+    },
+    {
+      "blue": "176",
+      "green": "236",
+      "label": "GREEN",
+      "red": "166"
+    },
+    {
+      "blue": "202",
+      "green": "200",
+      "label": "BLUE",
+      "red": "89"
+    },
+    {
+      "blue": "213",
+      "green": "156",
+      "label": "BLUE",
+      "red": "50"
+    },
+    {
+      "blue": "48",
+      "green": "235",
+      "label": "YELLOW",
+      "red": "230"
+    },
+    {
+      "blue": "15",
+      "green": "248",
+      "label": "GREEN",
+      "red": "209"
+    },
+    {
+      "blue": "17",
+      "green": "93",
+      "label": "ORANGE",
+      "red": "213"
+    },
+    {
+      "blue": "14",
+      "green": "72",
+      "label": "ORANGE",
+      "red": "115"
+    },
+    {
+      "blue": "103",
+      "green": "188",
+      "label": "GREEN",
+      "red": "173"
+    },
+    {
+      "blue": "161",
+      "green": "128",
+      "label": "BLUE",
+      "red": "74"
+    },
+    {
+      "blue": "50",
+      "green": "71",
+      "label": "NONE",
+      "red": "76"
+    },
+    {
+      "blue": "127",
+      "green": "133",
+      "label": "RED",
+      "red": "236"
+    },
+    {
+      "blue": "156",
+      "green": "209",
+      "label": "GREEN",
+      "red": "77"
+    },
+    {
+      "blue": "180",
+      "green": "190",
+      "label": "BLUE",
+      "red": "14"
+    },
+    {
+      "blue": "12",
+      "green": "214",
+      "label": "GREEN",
+      "red": "40"
+    },
+    {
+      "blue": "232",
+      "green": "20",
+      "label": "VIOLET",
+      "red": "206"
+    },
+    {
+      "blue": "130",
+      "green": "226",
+      "label": "GREEN",
+      "red": "211"
+    },
+    {
+      "blue": "21",
+      "green": "190",
+      "label": "GREEN",
+      "red": "139"
+    },
+    {
+      "blue": "41",
+      "green": "28",
+      "label": "RED",
+      "red": "129"
+    },
+    {
+      "blue": "152",
+      "green": "92",
+      "label": "VIOLET",
+      "red": "169"
+    },
+    {
+      "blue": "75",
+      "green": "117",
+      "label": "RED",
+      "red": "235"
+    },
+    {
+      "blue": "30",
+      "green": "11",
+      "label": "RED",
+      "red": "234"
+    },
+    {
+      "blue": "236",
+      "green": "36",
+      "label": "VIOLET",
+      "red": "169"
+    },
+    {
+      "blue": "211",
+      "green": "198",
+      "label": "RED",
+      "red": "248"
+    },
+    {
+      "blue": "55",
+      "green": "89",
+      "label": "ORANGE",
+      "red": "182"
+    },
+    {
+      "blue": "219",
+      "green": "207",
+      "label": "VIOLET",
+      "red": "230"
+    },
+    {
+      "blue": "96",
+      "green": "156",
+      "label": "ORANGE",
+      "red": "200"
+    },
+    {
+      "blue": "211",
+      "green": "50",
+      "label": "INDIGO",
+      "red": "81"
+    },
+    {
+      "blue": "211",
+      "green": "74",
+      "label": "INDIGO",
+      "red": "95"
+    },
+    {
+      "blue": "58",
+      "green": "45",
+      "label": "RED",
+      "red": "222"
+    },
+    {
+      "blue": "156",
+      "green": "37",
+      "label": "VIOLET",
+      "red": "213"
+    },
+    {
+      "blue": "35",
+      "green": "247",
+      "label": "GREEN",
+      "red": "62"
+    },
+    {
+      "blue": "251",
+      "green": "39",
+      "label": "VIOLET",
+      "red": "183"
+    },
+    {
+      "blue": "24",
+      "green": "240",
+      "label": "GREEN",
+      "red": "181"
+    },
+    {
+      "blue": "249",
+      "green": "176",
+      "label": "BLUE",
+      "red": "69"
+    },
+    {
+      "blue": "40",
+      "green": "242",
+      "label": "GREEN",
+      "red": "177"
+    },
+    {
+      "blue": "194",
+      "green": "194",
+      "label": "BLUE",
+      "red": "9"
+    },
+    {
+      "blue": "44",
+      "green": "36",
+      "label": "NONE",
+      "red": "34"
+    },
+    {
+      "blue": "174",
+      "green": "33",
+      "label": "VIOLET",
+      "red": "140"
+    },
+    {
+      "blue": "18",
+      "green": "226",
+      "label": "YELLOW",
+      "red": "204"
+    },
+    {
+      "blue": "21",
+      "green": "144",
+      "label": "ORANGE",
+      "red": "184"
+    },
+    {
+      "blue": "247",
+      "green": "182",
+      "label": "VIOLET",
+      "red": "180"
+    },
+    {
+      "blue": "165",
+      "green": "42",
+      "label": "INDIGO",
+      "red": "64"
+    },
+    {
+      "blue": "248",
+      "green": "64",
+      "label": "VIOLET",
+      "red": "253"
+    },
+    {
+      "blue": "208",
+      "green": "129",
+      "label": "BLUE",
+      "red": "55"
+    },
+    {
+      "blue": "234",
+      "green": "180",
+      "label": "BLUE",
+      "red": "4"
+    },
+    {
+      "blue": "217",
+      "green": "176",
+      "label": "BLUE",
+      "red": "87"
+    },
+    {
+      "blue": "166",
+      "green": "101",
+      "label": "VIOLET",
+      "red": "164"
+    },
+    {
+      "blue": "247",
+      "green": "211",
+      "label": "BLUE",
+      "red": "149"
+    },
+    {
+      "blue": "72",
+      "green": "209",
+      "label": "GREEN",
+      "red": "83"
+    },
+    {
+      "blue": "122",
+      "green": "107",
+      "label": "RED",
+      "red": "199"
+    },
+    {
+      "blue": "168",
+      "green": "110",
+      "label": "INDIGO",
+      "red": "77"
+    },
+    {
+      "blue": "177",
+      "green": "209",
+      "label": "BLUE",
+      "red": "32"
+    },
+    {
+      "blue": "241",
+      "green": "196",
+      "label": "RED",
+      "red": "251"
+    },
+    {
+      "blue": "200",
+      "green": "202",
+      "label": "BLUE",
+      "red": "15"
+    },
+    {
+      "blue": "194",
+      "green": "33",
+      "label": "INDIGO",
+      "red": "26"
+    },
+    {
+      "blue": "50",
+      "green": "75",
+      "label": "ORANGE",
+      "red": "138"
+    },
+    {
+      "blue": "149",
+      "green": "95",
+      "label": "INDIGO",
+      "red": "58"
+    },
+    {
+      "blue": "251",
+      "green": "42",
+      "label": "VIOLET",
+      "red": "227"
+    },
+    {
+      "blue": "87",
+      "green": "97",
+      "label": "RED",
+      "red": "223"
+    },
+    {
+      "blue": "102",
+      "green": "38",
+      "label": "VIOLET",
+      "red": "108"
+    },
+    {
+      "blue": "252",
+      "green": "29",
+      "label": "VIOLET",
+      "red": "210"
+    },
+    {
+      "blue": "248",
+      "green": "124",
+      "label": "VIOLET",
+      "red": "140"
+    },
+    {
+      "blue": "87",
+      "green": "184",
+      "label": "GREEN",
+      "red": "125"
+    },
+    {
+      "blue": "1",
+      "green": "111",
+      "label": "GREEN",
+      "red": "50"
+    },
+    {
+      "blue": "4",
+      "green": "124",
+      "label": "ORANGE",
+      "red": "158"
+    },
+    {
+      "blue": "183",
+      "green": "196",
+      "label": "NONE",
+      "red": "178"
+    },
+    {
+      "blue": "47",
+      "green": "134",
+      "label": "NONE",
+      "red": "146"
+    },
+    {
+      "blue": "148",
+      "green": "198",
+      "label": "GREEN",
+      "red": "84"
+    },
+    {
+      "blue": "196",
+      "green": "153",
+      "label": "RED",
+      "red": "230"
+    },
+    {
+      "blue": "198",
+      "green": "165",
+      "label": "BLUE",
+      "red": "148"
+    },
+    {
+      "blue": "47",
+      "green": "15",
+      "label": "RED",
+      "red": "248"
+    },
+    {
+      "blue": "159",
+      "green": "146",
+      "label": "RED",
+      "red": "221"
+    },
+    {
+      "blue": "59",
+      "green": "144",
+      "label": "GREEN",
+      "red": "110"
+    },
+    {
+      "blue": "37",
+      "green": "51",
+      "label": "NONE",
+      "red": "72"
+    },
+    {
+      "blue": "140",
+      "green": "146",
+      "label": "RED",
+      "red": "181"
+    },
+    {
+      "blue": "214",
+      "green": "212",
+      "label": "NONE",
+      "red": "212"
+    },
+    {
+      "blue": "23",
+      "green": "90",
+      "label": "ORANGE",
+      "red": "203"
+    },
+    {
+      "blue": "126",
+      "green": "179",
+      "label": "GREEN",
+      "red": "79"
+    },
+    {
+      "blue": "80",
+      "green": "172",
+      "label": "GREEN",
+      "red": "173"
+    },
+    {
+      "blue": "61",
+      "green": "93",
+      "label": "ORANGE",
+      "red": "177"
+    },
+    {
+      "blue": "213",
+      "green": "39",
+      "label": "INDIGO",
+      "red": "46"
+    },
+    {
+      "blue": "227",
+      "green": "65",
+      "label": "INDIGO",
+      "red": "25"
+    },
+    {
+      "blue": "225",
+      "green": "232",
+      "label": "BLUE",
+      "red": "139"
+    },
+    {
+      "blue": "116",
+      "green": "91",
+      "label": "RED",
+      "red": "244"
+    },
+    {
+      "blue": "231",
+      "green": "210",
+      "label": "RED",
+      "red": "249"
+    },
+    {
+      "blue": "123",
+      "green": "13",
+      "label": "INDIGO",
+      "red": "19"
+    },
+    {
+      "blue": "104",
+      "green": "22",
+      "label": "INDIGO",
+      "red": "56"
+    },
+    {
+      "blue": "254",
+      "green": "34",
+      "label": "VIOLET",
+      "red": "254"
+    },
+    {
+      "blue": "191",
+      "green": "68",
+      "label": "INDIGO",
+      "red": "70"
+    },
+    {
+      "blue": "232",
+      "green": "121",
+      "label": "VIOLET",
+      "red": "250"
+    },
+    {
+      "blue": "216",
+      "green": "116",
+      "label": "VIOLET",
+      "red": "240"
+    },
+    {
+      "blue": "201",
+      "green": "123",
+      "label": "VIOLET",
+      "red": "200"
+    },
+    {
+      "blue": "29",
+      "green": "115",
+      "label": "ORANGE",
+      "red": "145"
+    },
+    {
+      "blue": "127",
+      "green": "35",
+      "label": "INDIGO",
+      "red": "50"
+    },
+    {
+      "blue": "124",
+      "green": "216",
+      "label": "GREEN",
+      "red": "94"
+    },
+    {
+      "blue": "39",
+      "green": "205",
+      "label": "GREEN",
+      "red": "23"
+    }
+  ]
+}

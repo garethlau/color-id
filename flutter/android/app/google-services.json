@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393209862435",
+    "firebase_url": "https://colors-a4f32.firebaseio.com",
+    "project_id": "colors-a4f32",
+    "storage_bucket": "colors-a4f32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393209862435:android:49d521edd6061c27",
+        "android_client_info": {
+          "package_name": "com.example.colors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393209862435-o7e4jklgmpfo7e1eajf5h8gdl3fsk3fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfi3OKGKmgS13zusLTHv4F_XQnhAN3oqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393209862435-o7e4jklgmpfo7e1eajf5h8gdl3fsk3fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
